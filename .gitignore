@@ -45,6 +45,12 @@ to-do-code.txt
 # Exclude large database files
 full-drug-database.xml
 
+# Exclude analysis outputs and reports
+*_analysis_results.*
+*_drug_interaction.*
+mock_realistic_data_report.*
+realistic_data_report.*
+
 # Exclude temporary and backup files
 *.bak
 test_complete.log
