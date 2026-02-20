@@ -47,8 +47,36 @@ If using a drug database file, place it in the repository root and update script
 
 ### Running Analysis Scripts
 
+**Main Analysis Pipeline:**
+
 ```bash
-python scripts/analyze_sample_variants.py --input <vcf_file> --output <output_dir>
+python scripts/analyze_sample_variants.py -h
+```
+
+**Usage:**
+
+```
+Pharmacogenomics Analysis Pipeline
+
+optional arguments:
+  -h, --help         show this help message and exit
+  --input INPUT      Path to input annotation TSV file
+  --source SOURCE    Path to source data directory (contains source-allele-
+                     definition, pharmgkb, etc.)
+  --output OUTPUT    Path to output directory for reports
+  --drug-db DRUG_DB  Path to drug interaction database (txt or DrugBank XML)
+  --meds MEDS        Comma-separated list of patient medications (e.g.
+                     "Warfarin,Simvastatin")
+```
+
+**Example:**
+
+```bash
+python scripts/analyze_sample_variants.py \
+  --input sample_annotation.tsv \
+  --source /path/to/pharmacogenomics \
+  --output ./output_reports \
+  --meds "Warfarin,Simvastatin"
 ```
 
 ## Data Sources
