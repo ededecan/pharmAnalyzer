@@ -1,0 +1,46 @@
+UGT1A1 Diplotype,Activity Score,Coded Diplotype/Phenotype Summary,EHR Priority Notation
+*1/*1,,UGT1A1 Normal Metabolizer,Normal/Routine/Low Risk
+*1/*6,,UGT1A1 Intermediate Metabolizer,Normal/Routine/Low Risk
+*1/*27,,UGT1A1 Intermediate Metabolizer,Normal/Routine/Low Risk
+*1/*28,,UGT1A1 Intermediate Metabolizer,Normal/Routine/Low Risk
+*1/*36,,UGT1A1 Normal Metabolizer,Normal/Routine/Low Risk
+*1/*37,,UGT1A1 Intermediate Metabolizer,Normal/Routine/Low Risk
+*1/*80,,UGT1A1 Indeterminate,none
+*1/*80+*28,,UGT1A1 Intermediate Metabolizer,Normal/Routine/Low Risk
+*1/*80+*37,,UGT1A1 Intermediate Metabolizer,Normal/Routine/Low Risk
+*6/*6,,UGT1A1 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*27,,UGT1A1 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*28,,UGT1A1 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*36,,UGT1A1 Intermediate Metabolizer,Normal/Routine/Low Risk
+*6/*37,,UGT1A1 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*80,,UGT1A1 Indeterminate,none
+*6/*80+*28,,UGT1A1 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*80+*37,,UGT1A1 Poor Metabolizer,Abnormal/Priority/High Risk
+*27/*27,,UGT1A1 Poor Metabolizer,Abnormal/Priority/High Risk
+*27/*28,,UGT1A1 Poor Metabolizer,Abnormal/Priority/High Risk
+*27/*36,,UGT1A1 Intermediate Metabolizer,Normal/Routine/Low Risk
+*27/*37,,UGT1A1 Poor Metabolizer,Abnormal/Priority/High Risk
+*27/*80,,UGT1A1 Indeterminate,none
+*27/*80+*28,,UGT1A1 Poor Metabolizer,Abnormal/Priority/High Risk
+*27/*80+*37,,UGT1A1 Poor Metabolizer,Abnormal/Priority/High Risk
+*28/*28,,UGT1A1 Poor Metabolizer,Abnormal/Priority/High Risk
+*28/*36,,UGT1A1 Intermediate Metabolizer,Normal/Routine/Low Risk
+*28/*37,,UGT1A1 Poor Metabolizer,Abnormal/Priority/High Risk
+*28/*80,,UGT1A1 Indeterminate,none
+*28/*80+*28,,UGT1A1 Poor Metabolizer,Abnormal/Priority/High Risk
+*28/*80+*37,,UGT1A1 Poor Metabolizer,Abnormal/Priority/High Risk
+*36/*36,,UGT1A1 Normal Metabolizer,Normal/Routine/Low Risk
+*36/*37,,UGT1A1 Intermediate Metabolizer,Normal/Routine/Low Risk
+*36/*80,,UGT1A1 Indeterminate,none
+*36/*80+*28,,UGT1A1 Intermediate Metabolizer,Normal/Routine/Low Risk
+*36/*80+*37,,UGT1A1 Intermediate Metabolizer,Normal/Routine/Low Risk
+*37/*37,,UGT1A1 Poor Metabolizer,Abnormal/Priority/High Risk
+*37/*80,,UGT1A1 Indeterminate,none
+*37/*80+*28,,UGT1A1 Poor Metabolizer,Abnormal/Priority/High Risk
+*37/*80+*37,,UGT1A1 Poor Metabolizer,Abnormal/Priority/High Risk
+*80/*80,,UGT1A1 Indeterminate,none
+*80/*80+*28,,UGT1A1 Indeterminate,none
+*80/*80+*37,,UGT1A1 Indeterminate,none
+*80+*28/*80+*28,,UGT1A1 Poor Metabolizer,Abnormal/Priority/High Risk
+*80+*28/*80+*37,,UGT1A1 Poor Metabolizer,Abnormal/Priority/High Risk
+*80+*37/*80+*37,,UGT1A1 Poor Metabolizer,Abnormal/Priority/High Risk

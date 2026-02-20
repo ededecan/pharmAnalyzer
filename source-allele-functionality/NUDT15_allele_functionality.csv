@@ -1,0 +1,10 @@
+Allele/cDNA/rsID,Activity Value (Optional),Allele Biochemical Functional Status (Optional),Allele Clinical Functional Status (Required),Allele Clinical Function Substrate Specificity (Optional),References (Required),Strength of Evidence (Required),Summary of Findings (Required),Comments
+*1,,,Normal function,,26878724,,,
+*2,,,No function,,26878724,,,undetectable enzymatic activity in vitro
+*3,,,No function,,26878724,,,undetectable enzymatic activity in vitro
+*4,,,Uncertain function,,26878724,,,23.6 Vmax/Km
+*5,,,Uncertain function,,26878724,,,27.7 Vmax/Km; *3/*5 patient has same intolerance to MP as *3/*3 patient
+*6,,,Uncertain function,,26878724,,,14.9 Vmax/Km
+*7,,,Uncertain function,,28659275,,,
+*8,,,Uncertain function,,28659275,,,
+*9,,,No function,,"28659275, 30728528",,,

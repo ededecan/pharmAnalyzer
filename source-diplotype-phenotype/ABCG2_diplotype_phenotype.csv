@@ -1,0 +1,4 @@
+ABCG2 Diplotype,Activity Score,Coded Diplotype/Phenotype Summary,EHR Priority Notation
+rs2231142 reference (G)/rs2231142 reference (G),,ABCG2 Normal Function,Normal/Routine/Low Risk
+rs2231142 reference (G)/rs2231142 variant (T),,ABCG2 Decreased Function,Abnormal/Priority/High Risk
+rs2231142 variant (T)/rs2231142 variant (T),,ABCG2 Poor Function,Abnormal/Priority/High Risk

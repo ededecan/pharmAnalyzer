@@ -1,0 +1,7 @@
+Allele/cDNA/rsID,Activity Value (Optional),Allele Biochemical Functional Status (Optional),Allele Clinical Functional Status (Required),Allele Clinical Function Substrate Specificity (Optional),References (Required),Strength of Evidence (Required),Summary of Findings (Required),Comments
+*1,,,Normal function,,12893984.0,,"12893984: testosterone, nifedipine (in vitro)",
+*3,,,No function,,15179407.0,,15179407: midalozam (in vivo),
+*6,,,No function,,11279519.0,,,
+*7,,,No function,,14515058.0,,14515058: midazolam (in vitro),
+*8,,,Unknown function,,,,,
+*9,,,Unknown function,,,,,

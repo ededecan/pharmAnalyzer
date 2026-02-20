@@ -1,0 +1,2851 @@
+CYP2C9 Diplotype,Activity Score,Coded Diplotype/Phenotype Summary,EHR Priority Notation
+*1/*1,2.0,CYP2C9 Normal Metabolizer,Normal/Routine/Low Risk
+*1/*2,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*3,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*4,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*5,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*6,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*7,,CYP2C9 Indeterminate,none
+*1/*8,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*9,2.0,CYP2C9 Normal Metabolizer,Normal/Routine/Low Risk
+*1/*10,,CYP2C9 Indeterminate,none
+*1/*11,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*12,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*13,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*14,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*15,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*16,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*17,,CYP2C9 Indeterminate,none
+*1/*18,,CYP2C9 Indeterminate,none
+*1/*19,,CYP2C9 Indeterminate,none
+*1/*20,,CYP2C9 Indeterminate,none
+*1/*21,,CYP2C9 Indeterminate,none
+*1/*22,,CYP2C9 Indeterminate,none
+*1/*23,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*24,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*25,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*26,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*27,,CYP2C9 Indeterminate,none
+*1/*28,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*29,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*30,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*31,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*32,,CYP2C9 Indeterminate,none
+*1/*33,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*34,,CYP2C9 Indeterminate,none
+*1/*35,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*36,,CYP2C9 Indeterminate,none
+*1/*37,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*38,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*39,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*40,,CYP2C9 Indeterminate,none
+*1/*41,,CYP2C9 Indeterminate,none
+*1/*42,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*43,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*44,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*45,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*46,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*47,,CYP2C9 Indeterminate,none
+*1/*48,,CYP2C9 Indeterminate,none
+*1/*49,,CYP2C9 Indeterminate,none
+*1/*50,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*51,,CYP2C9 Indeterminate,none
+*1/*52,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*53,,CYP2C9 Indeterminate,none
+*1/*54,,CYP2C9 Indeterminate,none
+*1/*55,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*56,,CYP2C9 Indeterminate,none
+*1/*57,,CYP2C9 Indeterminate,none
+*1/*58,,CYP2C9 Indeterminate,none
+*1/*59,,CYP2C9 Indeterminate,none
+*1/*60,,CYP2C9 Indeterminate,none
+*1/*61,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*62,,CYP2C9 Indeterminate,none
+*1/*63,,CYP2C9 Indeterminate,none
+*1/*64,,CYP2C9 Indeterminate,none
+*1/*65,,CYP2C9 Indeterminate,none
+*1/*66,,CYP2C9 Indeterminate,none
+*1/*67,,CYP2C9 Indeterminate,none
+*1/*68,,CYP2C9 Indeterminate,none
+*1/*69,,CYP2C9 Indeterminate,none
+*1/*70,,CYP2C9 Indeterminate,none
+*1/*71,,CYP2C9 Indeterminate,none
+*1/*72,,CYP2C9 Indeterminate,none
+*1/*73,,CYP2C9 Indeterminate,none
+*1/*74,,CYP2C9 Indeterminate,none
+*1/*75,,CYP2C9 Indeterminate,none
+*2/*2,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*3,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*2/*4,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*5,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*6,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*2/*7,,CYP2C9 Indeterminate,none
+*2/*8,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*9,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*10,,CYP2C9 Indeterminate,none
+*2/*11,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*12,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*13,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*2/*14,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*15,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*2/*16,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*17,,CYP2C9 Indeterminate,none
+*2/*18,,CYP2C9 Indeterminate,none
+*2/*19,,CYP2C9 Indeterminate,none
+*2/*20,,CYP2C9 Indeterminate,none
+*2/*21,,CYP2C9 Indeterminate,none
+*2/*22,,CYP2C9 Indeterminate,none
+*2/*23,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*24,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*2/*25,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*2/*26,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*27,,CYP2C9 Indeterminate,none
+*2/*28,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*29,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*30,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*31,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*32,,CYP2C9 Indeterminate,none
+*2/*33,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*2/*34,,CYP2C9 Indeterminate,none
+*2/*35,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*2/*36,,CYP2C9 Indeterminate,none
+*2/*37,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*38,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*39,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*2/*40,,CYP2C9 Indeterminate,none
+*2/*41,,CYP2C9 Indeterminate,none
+*2/*42,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*2/*43,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*2/*44,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*45,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*2/*46,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*47,,CYP2C9 Indeterminate,none
+*2/*48,,CYP2C9 Indeterminate,none
+*2/*49,,CYP2C9 Indeterminate,none
+*2/*50,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*51,,CYP2C9 Indeterminate,none
+*2/*52,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*2/*53,,CYP2C9 Indeterminate,none
+*2/*54,,CYP2C9 Indeterminate,none
+*2/*55,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*56,,CYP2C9 Indeterminate,none
+*2/*57,,CYP2C9 Indeterminate,none
+*2/*58,,CYP2C9 Indeterminate,none
+*2/*59,,CYP2C9 Indeterminate,none
+*2/*60,,CYP2C9 Indeterminate,none
+*2/*61,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*62,,CYP2C9 Indeterminate,none
+*2/*63,,CYP2C9 Indeterminate,none
+*2/*64,,CYP2C9 Indeterminate,none
+*2/*65,,CYP2C9 Indeterminate,none
+*2/*66,,CYP2C9 Indeterminate,none
+*2/*67,,CYP2C9 Indeterminate,none
+*2/*68,,CYP2C9 Indeterminate,none
+*2/*69,,CYP2C9 Indeterminate,none
+*2/*70,,CYP2C9 Indeterminate,none
+*2/*71,,CYP2C9 Indeterminate,none
+*2/*72,,CYP2C9 Indeterminate,none
+*2/*73,,CYP2C9 Indeterminate,none
+*2/*74,,CYP2C9 Indeterminate,none
+*2/*75,,CYP2C9 Indeterminate,none
+*3/*3,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*4,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*5,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*6,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*7,,CYP2C9 Indeterminate,none
+*3/*8,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*9,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3/*10,,CYP2C9 Indeterminate,none
+*3/*11,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*12,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*13,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*14,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*15,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*16,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*17,,CYP2C9 Indeterminate,none
+*3/*18,,CYP2C9 Indeterminate,none
+*3/*19,,CYP2C9 Indeterminate,none
+*3/*20,,CYP2C9 Indeterminate,none
+*3/*21,,CYP2C9 Indeterminate,none
+*3/*22,,CYP2C9 Indeterminate,none
+*3/*23,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*24,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*25,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*26,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*27,,CYP2C9 Indeterminate,none
+*3/*28,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*29,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*30,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*31,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*32,,CYP2C9 Indeterminate,none
+*3/*33,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*34,,CYP2C9 Indeterminate,none
+*3/*35,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*36,,CYP2C9 Indeterminate,none
+*3/*37,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*38,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*39,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*40,,CYP2C9 Indeterminate,none
+*3/*41,,CYP2C9 Indeterminate,none
+*3/*42,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*43,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*44,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*45,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*46,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*47,,CYP2C9 Indeterminate,none
+*3/*48,,CYP2C9 Indeterminate,none
+*3/*49,,CYP2C9 Indeterminate,none
+*3/*50,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*51,,CYP2C9 Indeterminate,none
+*3/*52,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*53,,CYP2C9 Indeterminate,none
+*3/*54,,CYP2C9 Indeterminate,none
+*3/*55,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*56,,CYP2C9 Indeterminate,none
+*3/*57,,CYP2C9 Indeterminate,none
+*3/*58,,CYP2C9 Indeterminate,none
+*3/*59,,CYP2C9 Indeterminate,none
+*3/*60,,CYP2C9 Indeterminate,none
+*3/*61,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*3/*62,,CYP2C9 Indeterminate,none
+*3/*63,,CYP2C9 Indeterminate,none
+*3/*64,,CYP2C9 Indeterminate,none
+*3/*65,,CYP2C9 Indeterminate,none
+*3/*66,,CYP2C9 Indeterminate,none
+*3/*67,,CYP2C9 Indeterminate,none
+*3/*68,,CYP2C9 Indeterminate,none
+*3/*69,,CYP2C9 Indeterminate,none
+*3/*70,,CYP2C9 Indeterminate,none
+*3/*71,,CYP2C9 Indeterminate,none
+*3/*72,,CYP2C9 Indeterminate,none
+*3/*73,,CYP2C9 Indeterminate,none
+*3/*74,,CYP2C9 Indeterminate,none
+*3/*75,,CYP2C9 Indeterminate,none
+*4/*4,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*5,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*6,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*4/*7,,CYP2C9 Indeterminate,none
+*4/*8,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*9,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*10,,CYP2C9 Indeterminate,none
+*4/*11,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*12,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*13,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*4/*14,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*15,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*4/*16,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*17,,CYP2C9 Indeterminate,none
+*4/*18,,CYP2C9 Indeterminate,none
+*4/*19,,CYP2C9 Indeterminate,none
+*4/*20,,CYP2C9 Indeterminate,none
+*4/*21,,CYP2C9 Indeterminate,none
+*4/*22,,CYP2C9 Indeterminate,none
+*4/*23,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*24,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*4/*25,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*4/*26,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*27,,CYP2C9 Indeterminate,none
+*4/*28,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*29,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*30,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*31,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*32,,CYP2C9 Indeterminate,none
+*4/*33,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*4/*34,,CYP2C9 Indeterminate,none
+*4/*35,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*4/*36,,CYP2C9 Indeterminate,none
+*4/*37,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*38,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*39,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*4/*40,,CYP2C9 Indeterminate,none
+*4/*41,,CYP2C9 Indeterminate,none
+*4/*42,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*4/*43,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*4/*44,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*45,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*4/*46,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*47,,CYP2C9 Indeterminate,none
+*4/*48,,CYP2C9 Indeterminate,none
+*4/*49,,CYP2C9 Indeterminate,none
+*4/*50,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*51,,CYP2C9 Indeterminate,none
+*4/*52,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*4/*53,,CYP2C9 Indeterminate,none
+*4/*54,,CYP2C9 Indeterminate,none
+*4/*55,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*56,,CYP2C9 Indeterminate,none
+*4/*57,,CYP2C9 Indeterminate,none
+*4/*58,,CYP2C9 Indeterminate,none
+*4/*59,,CYP2C9 Indeterminate,none
+*4/*60,,CYP2C9 Indeterminate,none
+*4/*61,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*62,,CYP2C9 Indeterminate,none
+*4/*63,,CYP2C9 Indeterminate,none
+*4/*64,,CYP2C9 Indeterminate,none
+*4/*65,,CYP2C9 Indeterminate,none
+*4/*66,,CYP2C9 Indeterminate,none
+*4/*67,,CYP2C9 Indeterminate,none
+*4/*68,,CYP2C9 Indeterminate,none
+*4/*69,,CYP2C9 Indeterminate,none
+*4/*70,,CYP2C9 Indeterminate,none
+*4/*71,,CYP2C9 Indeterminate,none
+*4/*72,,CYP2C9 Indeterminate,none
+*4/*73,,CYP2C9 Indeterminate,none
+*4/*74,,CYP2C9 Indeterminate,none
+*4/*75,,CYP2C9 Indeterminate,none
+*5/*5,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*5/*6,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*5/*7,,CYP2C9 Indeterminate,none
+*5/*8,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*5/*9,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*5/*10,,CYP2C9 Indeterminate,none
+*5/*11,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*5/*12,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*5/*13,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*5/*14,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*5/*15,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*5/*16,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*5/*17,,CYP2C9 Indeterminate,none
+*5/*18,,CYP2C9 Indeterminate,none
+*5/*19,,CYP2C9 Indeterminate,none
+*5/*20,,CYP2C9 Indeterminate,none
+*5/*21,,CYP2C9 Indeterminate,none
+*5/*22,,CYP2C9 Indeterminate,none
+*5/*23,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*5/*24,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*5/*25,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*5/*26,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*5/*27,,CYP2C9 Indeterminate,none
+*5/*28,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*5/*29,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*5/*30,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*5/*31,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*5/*32,,CYP2C9 Indeterminate,none
+*5/*33,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*5/*34,,CYP2C9 Indeterminate,none
+*5/*35,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*5/*36,,CYP2C9 Indeterminate,none
+*5/*37,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*5/*38,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*5/*39,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*5/*40,,CYP2C9 Indeterminate,none
+*5/*41,,CYP2C9 Indeterminate,none
+*5/*42,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*5/*43,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*5/*44,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*5/*45,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*5/*46,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*5/*47,,CYP2C9 Indeterminate,none
+*5/*48,,CYP2C9 Indeterminate,none
+*5/*49,,CYP2C9 Indeterminate,none
+*5/*50,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*5/*51,,CYP2C9 Indeterminate,none
+*5/*52,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*5/*53,,CYP2C9 Indeterminate,none
+*5/*54,,CYP2C9 Indeterminate,none
+*5/*55,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*5/*56,,CYP2C9 Indeterminate,none
+*5/*57,,CYP2C9 Indeterminate,none
+*5/*58,,CYP2C9 Indeterminate,none
+*5/*59,,CYP2C9 Indeterminate,none
+*5/*60,,CYP2C9 Indeterminate,none
+*5/*61,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*5/*62,,CYP2C9 Indeterminate,none
+*5/*63,,CYP2C9 Indeterminate,none
+*5/*64,,CYP2C9 Indeterminate,none
+*5/*65,,CYP2C9 Indeterminate,none
+*5/*66,,CYP2C9 Indeterminate,none
+*5/*67,,CYP2C9 Indeterminate,none
+*5/*68,,CYP2C9 Indeterminate,none
+*5/*69,,CYP2C9 Indeterminate,none
+*5/*70,,CYP2C9 Indeterminate,none
+*5/*71,,CYP2C9 Indeterminate,none
+*5/*72,,CYP2C9 Indeterminate,none
+*5/*73,,CYP2C9 Indeterminate,none
+*5/*74,,CYP2C9 Indeterminate,none
+*5/*75,,CYP2C9 Indeterminate,none
+*6/*6,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*7,,CYP2C9 Indeterminate,none
+*6/*8,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*9,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*6/*10,,CYP2C9 Indeterminate,none
+*6/*11,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*12,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*13,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*14,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*15,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*16,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*17,,CYP2C9 Indeterminate,none
+*6/*18,,CYP2C9 Indeterminate,none
+*6/*19,,CYP2C9 Indeterminate,none
+*6/*20,,CYP2C9 Indeterminate,none
+*6/*21,,CYP2C9 Indeterminate,none
+*6/*22,,CYP2C9 Indeterminate,none
+*6/*23,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*24,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*25,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*26,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*27,,CYP2C9 Indeterminate,none
+*6/*28,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*29,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*30,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*31,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*32,,CYP2C9 Indeterminate,none
+*6/*33,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*34,,CYP2C9 Indeterminate,none
+*6/*35,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*36,,CYP2C9 Indeterminate,none
+*6/*37,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*38,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*39,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*40,,CYP2C9 Indeterminate,none
+*6/*41,,CYP2C9 Indeterminate,none
+*6/*42,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*43,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*44,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*45,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*46,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*47,,CYP2C9 Indeterminate,none
+*6/*48,,CYP2C9 Indeterminate,none
+*6/*49,,CYP2C9 Indeterminate,none
+*6/*50,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*51,,CYP2C9 Indeterminate,none
+*6/*52,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*53,,CYP2C9 Indeterminate,none
+*6/*54,,CYP2C9 Indeterminate,none
+*6/*55,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*56,,CYP2C9 Indeterminate,none
+*6/*57,,CYP2C9 Indeterminate,none
+*6/*58,,CYP2C9 Indeterminate,none
+*6/*59,,CYP2C9 Indeterminate,none
+*6/*60,,CYP2C9 Indeterminate,none
+*6/*61,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*6/*62,,CYP2C9 Indeterminate,none
+*6/*63,,CYP2C9 Indeterminate,none
+*6/*64,,CYP2C9 Indeterminate,none
+*6/*65,,CYP2C9 Indeterminate,none
+*6/*66,,CYP2C9 Indeterminate,none
+*6/*67,,CYP2C9 Indeterminate,none
+*6/*68,,CYP2C9 Indeterminate,none
+*6/*69,,CYP2C9 Indeterminate,none
+*6/*70,,CYP2C9 Indeterminate,none
+*6/*71,,CYP2C9 Indeterminate,none
+*6/*72,,CYP2C9 Indeterminate,none
+*6/*73,,CYP2C9 Indeterminate,none
+*6/*74,,CYP2C9 Indeterminate,none
+*6/*75,,CYP2C9 Indeterminate,none
+*7/*7,,CYP2C9 Indeterminate,none
+*7/*8,,CYP2C9 Indeterminate,none
+*7/*9,,CYP2C9 Indeterminate,none
+*7/*10,,CYP2C9 Indeterminate,none
+*7/*11,,CYP2C9 Indeterminate,none
+*7/*12,,CYP2C9 Indeterminate,none
+*7/*13,,CYP2C9 Indeterminate,none
+*7/*14,,CYP2C9 Indeterminate,none
+*7/*15,,CYP2C9 Indeterminate,none
+*7/*16,,CYP2C9 Indeterminate,none
+*7/*17,,CYP2C9 Indeterminate,none
+*7/*18,,CYP2C9 Indeterminate,none
+*7/*19,,CYP2C9 Indeterminate,none
+*7/*20,,CYP2C9 Indeterminate,none
+*7/*21,,CYP2C9 Indeterminate,none
+*7/*22,,CYP2C9 Indeterminate,none
+*7/*23,,CYP2C9 Indeterminate,none
+*7/*24,,CYP2C9 Indeterminate,none
+*7/*25,,CYP2C9 Indeterminate,none
+*7/*26,,CYP2C9 Indeterminate,none
+*7/*27,,CYP2C9 Indeterminate,none
+*7/*28,,CYP2C9 Indeterminate,none
+*7/*29,,CYP2C9 Indeterminate,none
+*7/*30,,CYP2C9 Indeterminate,none
+*7/*31,,CYP2C9 Indeterminate,none
+*7/*32,,CYP2C9 Indeterminate,none
+*7/*33,,CYP2C9 Indeterminate,none
+*7/*34,,CYP2C9 Indeterminate,none
+*7/*35,,CYP2C9 Indeterminate,none
+*7/*36,,CYP2C9 Indeterminate,none
+*7/*37,,CYP2C9 Indeterminate,none
+*7/*38,,CYP2C9 Indeterminate,none
+*7/*39,,CYP2C9 Indeterminate,none
+*7/*40,,CYP2C9 Indeterminate,none
+*7/*41,,CYP2C9 Indeterminate,none
+*7/*42,,CYP2C9 Indeterminate,none
+*7/*43,,CYP2C9 Indeterminate,none
+*7/*44,,CYP2C9 Indeterminate,none
+*7/*45,,CYP2C9 Indeterminate,none
+*7/*46,,CYP2C9 Indeterminate,none
+*7/*47,,CYP2C9 Indeterminate,none
+*7/*48,,CYP2C9 Indeterminate,none
+*7/*49,,CYP2C9 Indeterminate,none
+*7/*50,,CYP2C9 Indeterminate,none
+*7/*51,,CYP2C9 Indeterminate,none
+*7/*52,,CYP2C9 Indeterminate,none
+*7/*53,,CYP2C9 Indeterminate,none
+*7/*54,,CYP2C9 Indeterminate,none
+*7/*55,,CYP2C9 Indeterminate,none
+*7/*56,,CYP2C9 Indeterminate,none
+*7/*57,,CYP2C9 Indeterminate,none
+*7/*58,,CYP2C9 Indeterminate,none
+*7/*59,,CYP2C9 Indeterminate,none
+*7/*60,,CYP2C9 Indeterminate,none
+*7/*61,,CYP2C9 Indeterminate,none
+*7/*62,,CYP2C9 Indeterminate,none
+*7/*63,,CYP2C9 Indeterminate,none
+*7/*64,,CYP2C9 Indeterminate,none
+*7/*65,,CYP2C9 Indeterminate,none
+*7/*66,,CYP2C9 Indeterminate,none
+*7/*67,,CYP2C9 Indeterminate,none
+*7/*68,,CYP2C9 Indeterminate,none
+*7/*69,,CYP2C9 Indeterminate,none
+*7/*70,,CYP2C9 Indeterminate,none
+*7/*71,,CYP2C9 Indeterminate,none
+*7/*72,,CYP2C9 Indeterminate,none
+*7/*73,,CYP2C9 Indeterminate,none
+*7/*74,,CYP2C9 Indeterminate,none
+*7/*75,,CYP2C9 Indeterminate,none
+*8/*8,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*8/*9,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*8/*10,,CYP2C9 Indeterminate,none
+*8/*11,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*8/*12,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*8/*13,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*8/*14,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*8/*15,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*8/*16,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*8/*17,,CYP2C9 Indeterminate,none
+*8/*18,,CYP2C9 Indeterminate,none
+*8/*19,,CYP2C9 Indeterminate,none
+*8/*20,,CYP2C9 Indeterminate,none
+*8/*21,,CYP2C9 Indeterminate,none
+*8/*22,,CYP2C9 Indeterminate,none
+*8/*23,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*8/*24,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*8/*25,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*8/*26,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*8/*27,,CYP2C9 Indeterminate,none
+*8/*28,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*8/*29,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*8/*30,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*8/*31,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*8/*32,,CYP2C9 Indeterminate,none
+*8/*33,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*8/*34,,CYP2C9 Indeterminate,none
+*8/*35,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*8/*36,,CYP2C9 Indeterminate,none
+*8/*37,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*8/*38,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*8/*39,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*8/*40,,CYP2C9 Indeterminate,none
+*8/*41,,CYP2C9 Indeterminate,none
+*8/*42,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*8/*43,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*8/*44,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*8/*45,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*8/*46,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*8/*47,,CYP2C9 Indeterminate,none
+*8/*48,,CYP2C9 Indeterminate,none
+*8/*49,,CYP2C9 Indeterminate,none
+*8/*50,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*8/*51,,CYP2C9 Indeterminate,none
+*8/*52,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*8/*53,,CYP2C9 Indeterminate,none
+*8/*54,,CYP2C9 Indeterminate,none
+*8/*55,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*8/*56,,CYP2C9 Indeterminate,none
+*8/*57,,CYP2C9 Indeterminate,none
+*8/*58,,CYP2C9 Indeterminate,none
+*8/*59,,CYP2C9 Indeterminate,none
+*8/*60,,CYP2C9 Indeterminate,none
+*8/*61,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*8/*62,,CYP2C9 Indeterminate,none
+*8/*63,,CYP2C9 Indeterminate,none
+*8/*64,,CYP2C9 Indeterminate,none
+*8/*65,,CYP2C9 Indeterminate,none
+*8/*66,,CYP2C9 Indeterminate,none
+*8/*67,,CYP2C9 Indeterminate,none
+*8/*68,,CYP2C9 Indeterminate,none
+*8/*69,,CYP2C9 Indeterminate,none
+*8/*70,,CYP2C9 Indeterminate,none
+*8/*71,,CYP2C9 Indeterminate,none
+*8/*72,,CYP2C9 Indeterminate,none
+*8/*73,,CYP2C9 Indeterminate,none
+*8/*74,,CYP2C9 Indeterminate,none
+*8/*75,,CYP2C9 Indeterminate,none
+*9/*9,2.0,CYP2C9 Normal Metabolizer,Normal/Routine/Low Risk
+*9/*10,,CYP2C9 Indeterminate,none
+*9/*11,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*12,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*13,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*14,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*15,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*16,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*17,,CYP2C9 Indeterminate,none
+*9/*18,,CYP2C9 Indeterminate,none
+*9/*19,,CYP2C9 Indeterminate,none
+*9/*20,,CYP2C9 Indeterminate,none
+*9/*21,,CYP2C9 Indeterminate,none
+*9/*22,,CYP2C9 Indeterminate,none
+*9/*23,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*24,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*25,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*26,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*27,,CYP2C9 Indeterminate,none
+*9/*28,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*29,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*30,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*31,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*32,,CYP2C9 Indeterminate,none
+*9/*33,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*34,,CYP2C9 Indeterminate,none
+*9/*35,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*36,,CYP2C9 Indeterminate,none
+*9/*37,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*38,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*39,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*40,,CYP2C9 Indeterminate,none
+*9/*41,,CYP2C9 Indeterminate,none
+*9/*42,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*43,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*44,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*45,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*46,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*47,,CYP2C9 Indeterminate,none
+*9/*48,,CYP2C9 Indeterminate,none
+*9/*49,,CYP2C9 Indeterminate,none
+*9/*50,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*51,,CYP2C9 Indeterminate,none
+*9/*52,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*53,,CYP2C9 Indeterminate,none
+*9/*54,,CYP2C9 Indeterminate,none
+*9/*55,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*56,,CYP2C9 Indeterminate,none
+*9/*57,,CYP2C9 Indeterminate,none
+*9/*58,,CYP2C9 Indeterminate,none
+*9/*59,,CYP2C9 Indeterminate,none
+*9/*60,,CYP2C9 Indeterminate,none
+*9/*61,1.5,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*62,,CYP2C9 Indeterminate,none
+*9/*63,,CYP2C9 Indeterminate,none
+*9/*64,,CYP2C9 Indeterminate,none
+*9/*65,,CYP2C9 Indeterminate,none
+*9/*66,,CYP2C9 Indeterminate,none
+*9/*67,,CYP2C9 Indeterminate,none
+*9/*68,,CYP2C9 Indeterminate,none
+*9/*69,,CYP2C9 Indeterminate,none
+*9/*70,,CYP2C9 Indeterminate,none
+*9/*71,,CYP2C9 Indeterminate,none
+*9/*72,,CYP2C9 Indeterminate,none
+*9/*73,,CYP2C9 Indeterminate,none
+*9/*74,,CYP2C9 Indeterminate,none
+*9/*75,,CYP2C9 Indeterminate,none
+*10/*10,,CYP2C9 Indeterminate,none
+*10/*11,,CYP2C9 Indeterminate,none
+*10/*12,,CYP2C9 Indeterminate,none
+*10/*13,,CYP2C9 Indeterminate,none
+*10/*14,,CYP2C9 Indeterminate,none
+*10/*15,,CYP2C9 Indeterminate,none
+*10/*16,,CYP2C9 Indeterminate,none
+*10/*17,,CYP2C9 Indeterminate,none
+*10/*18,,CYP2C9 Indeterminate,none
+*10/*19,,CYP2C9 Indeterminate,none
+*10/*20,,CYP2C9 Indeterminate,none
+*10/*21,,CYP2C9 Indeterminate,none
+*10/*22,,CYP2C9 Indeterminate,none
+*10/*23,,CYP2C9 Indeterminate,none
+*10/*24,,CYP2C9 Indeterminate,none
+*10/*25,,CYP2C9 Indeterminate,none
+*10/*26,,CYP2C9 Indeterminate,none
+*10/*27,,CYP2C9 Indeterminate,none
+*10/*28,,CYP2C9 Indeterminate,none
+*10/*29,,CYP2C9 Indeterminate,none
+*10/*30,,CYP2C9 Indeterminate,none
+*10/*31,,CYP2C9 Indeterminate,none
+*10/*32,,CYP2C9 Indeterminate,none
+*10/*33,,CYP2C9 Indeterminate,none
+*10/*34,,CYP2C9 Indeterminate,none
+*10/*35,,CYP2C9 Indeterminate,none
+*10/*36,,CYP2C9 Indeterminate,none
+*10/*37,,CYP2C9 Indeterminate,none
+*10/*38,,CYP2C9 Indeterminate,none
+*10/*39,,CYP2C9 Indeterminate,none
+*10/*40,,CYP2C9 Indeterminate,none
+*10/*41,,CYP2C9 Indeterminate,none
+*10/*42,,CYP2C9 Indeterminate,none
+*10/*43,,CYP2C9 Indeterminate,none
+*10/*44,,CYP2C9 Indeterminate,none
+*10/*45,,CYP2C9 Indeterminate,none
+*10/*46,,CYP2C9 Indeterminate,none
+*10/*47,,CYP2C9 Indeterminate,none
+*10/*48,,CYP2C9 Indeterminate,none
+*10/*49,,CYP2C9 Indeterminate,none
+*10/*50,,CYP2C9 Indeterminate,none
+*10/*51,,CYP2C9 Indeterminate,none
+*10/*52,,CYP2C9 Indeterminate,none
+*10/*53,,CYP2C9 Indeterminate,none
+*10/*54,,CYP2C9 Indeterminate,none
+*10/*55,,CYP2C9 Indeterminate,none
+*10/*56,,CYP2C9 Indeterminate,none
+*10/*57,,CYP2C9 Indeterminate,none
+*10/*58,,CYP2C9 Indeterminate,none
+*10/*59,,CYP2C9 Indeterminate,none
+*10/*60,,CYP2C9 Indeterminate,none
+*10/*61,,CYP2C9 Indeterminate,none
+*10/*62,,CYP2C9 Indeterminate,none
+*10/*63,,CYP2C9 Indeterminate,none
+*10/*64,,CYP2C9 Indeterminate,none
+*10/*65,,CYP2C9 Indeterminate,none
+*10/*66,,CYP2C9 Indeterminate,none
+*10/*67,,CYP2C9 Indeterminate,none
+*10/*68,,CYP2C9 Indeterminate,none
+*10/*69,,CYP2C9 Indeterminate,none
+*10/*70,,CYP2C9 Indeterminate,none
+*10/*71,,CYP2C9 Indeterminate,none
+*10/*72,,CYP2C9 Indeterminate,none
+*10/*73,,CYP2C9 Indeterminate,none
+*10/*74,,CYP2C9 Indeterminate,none
+*10/*75,,CYP2C9 Indeterminate,none
+*11/*11,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*12,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*13,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*11/*14,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*15,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*11/*16,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*17,,CYP2C9 Indeterminate,none
+*11/*18,,CYP2C9 Indeterminate,none
+*11/*19,,CYP2C9 Indeterminate,none
+*11/*20,,CYP2C9 Indeterminate,none
+*11/*21,,CYP2C9 Indeterminate,none
+*11/*22,,CYP2C9 Indeterminate,none
+*11/*23,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*24,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*11/*25,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*11/*26,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*27,,CYP2C9 Indeterminate,none
+*11/*28,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*29,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*30,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*31,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*32,,CYP2C9 Indeterminate,none
+*11/*33,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*11/*34,,CYP2C9 Indeterminate,none
+*11/*35,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*11/*36,,CYP2C9 Indeterminate,none
+*11/*37,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*38,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*39,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*11/*40,,CYP2C9 Indeterminate,none
+*11/*41,,CYP2C9 Indeterminate,none
+*11/*42,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*11/*43,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*11/*44,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*45,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*11/*46,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*47,,CYP2C9 Indeterminate,none
+*11/*48,,CYP2C9 Indeterminate,none
+*11/*49,,CYP2C9 Indeterminate,none
+*11/*50,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*51,,CYP2C9 Indeterminate,none
+*11/*52,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*11/*53,,CYP2C9 Indeterminate,none
+*11/*54,,CYP2C9 Indeterminate,none
+*11/*55,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*56,,CYP2C9 Indeterminate,none
+*11/*57,,CYP2C9 Indeterminate,none
+*11/*58,,CYP2C9 Indeterminate,none
+*11/*59,,CYP2C9 Indeterminate,none
+*11/*60,,CYP2C9 Indeterminate,none
+*11/*61,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*62,,CYP2C9 Indeterminate,none
+*11/*63,,CYP2C9 Indeterminate,none
+*11/*64,,CYP2C9 Indeterminate,none
+*11/*65,,CYP2C9 Indeterminate,none
+*11/*66,,CYP2C9 Indeterminate,none
+*11/*67,,CYP2C9 Indeterminate,none
+*11/*68,,CYP2C9 Indeterminate,none
+*11/*69,,CYP2C9 Indeterminate,none
+*11/*70,,CYP2C9 Indeterminate,none
+*11/*71,,CYP2C9 Indeterminate,none
+*11/*72,,CYP2C9 Indeterminate,none
+*11/*73,,CYP2C9 Indeterminate,none
+*11/*74,,CYP2C9 Indeterminate,none
+*11/*75,,CYP2C9 Indeterminate,none
+*12/*12,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*12/*13,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*12/*14,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*12/*15,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*12/*16,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*12/*17,,CYP2C9 Indeterminate,none
+*12/*18,,CYP2C9 Indeterminate,none
+*12/*19,,CYP2C9 Indeterminate,none
+*12/*20,,CYP2C9 Indeterminate,none
+*12/*21,,CYP2C9 Indeterminate,none
+*12/*22,,CYP2C9 Indeterminate,none
+*12/*23,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*12/*24,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*12/*25,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*12/*26,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*12/*27,,CYP2C9 Indeterminate,none
+*12/*28,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*12/*29,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*12/*30,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*12/*31,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*12/*32,,CYP2C9 Indeterminate,none
+*12/*33,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*12/*34,,CYP2C9 Indeterminate,none
+*12/*35,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*12/*36,,CYP2C9 Indeterminate,none
+*12/*37,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*12/*38,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*12/*39,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*12/*40,,CYP2C9 Indeterminate,none
+*12/*41,,CYP2C9 Indeterminate,none
+*12/*42,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*12/*43,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*12/*44,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*12/*45,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*12/*46,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*12/*47,,CYP2C9 Indeterminate,none
+*12/*48,,CYP2C9 Indeterminate,none
+*12/*49,,CYP2C9 Indeterminate,none
+*12/*50,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*12/*51,,CYP2C9 Indeterminate,none
+*12/*52,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*12/*53,,CYP2C9 Indeterminate,none
+*12/*54,,CYP2C9 Indeterminate,none
+*12/*55,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*12/*56,,CYP2C9 Indeterminate,none
+*12/*57,,CYP2C9 Indeterminate,none
+*12/*58,,CYP2C9 Indeterminate,none
+*12/*59,,CYP2C9 Indeterminate,none
+*12/*60,,CYP2C9 Indeterminate,none
+*12/*61,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*12/*62,,CYP2C9 Indeterminate,none
+*12/*63,,CYP2C9 Indeterminate,none
+*12/*64,,CYP2C9 Indeterminate,none
+*12/*65,,CYP2C9 Indeterminate,none
+*12/*66,,CYP2C9 Indeterminate,none
+*12/*67,,CYP2C9 Indeterminate,none
+*12/*68,,CYP2C9 Indeterminate,none
+*12/*69,,CYP2C9 Indeterminate,none
+*12/*70,,CYP2C9 Indeterminate,none
+*12/*71,,CYP2C9 Indeterminate,none
+*12/*72,,CYP2C9 Indeterminate,none
+*12/*73,,CYP2C9 Indeterminate,none
+*12/*74,,CYP2C9 Indeterminate,none
+*12/*75,,CYP2C9 Indeterminate,none
+*13/*13,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*13/*14,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*13/*15,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*13/*16,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*13/*17,,CYP2C9 Indeterminate,none
+*13/*18,,CYP2C9 Indeterminate,none
+*13/*19,,CYP2C9 Indeterminate,none
+*13/*20,,CYP2C9 Indeterminate,none
+*13/*21,,CYP2C9 Indeterminate,none
+*13/*22,,CYP2C9 Indeterminate,none
+*13/*23,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*13/*24,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*13/*25,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*13/*26,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*13/*27,,CYP2C9 Indeterminate,none
+*13/*28,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*13/*29,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*13/*30,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*13/*31,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*13/*32,,CYP2C9 Indeterminate,none
+*13/*33,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*13/*34,,CYP2C9 Indeterminate,none
+*13/*35,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*13/*36,,CYP2C9 Indeterminate,none
+*13/*37,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*13/*38,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*13/*39,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*13/*40,,CYP2C9 Indeterminate,none
+*13/*41,,CYP2C9 Indeterminate,none
+*13/*42,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*13/*43,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*13/*44,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*13/*45,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*13/*46,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*13/*47,,CYP2C9 Indeterminate,none
+*13/*48,,CYP2C9 Indeterminate,none
+*13/*49,,CYP2C9 Indeterminate,none
+*13/*50,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*13/*51,,CYP2C9 Indeterminate,none
+*13/*52,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*13/*53,,CYP2C9 Indeterminate,none
+*13/*54,,CYP2C9 Indeterminate,none
+*13/*55,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*13/*56,,CYP2C9 Indeterminate,none
+*13/*57,,CYP2C9 Indeterminate,none
+*13/*58,,CYP2C9 Indeterminate,none
+*13/*59,,CYP2C9 Indeterminate,none
+*13/*60,,CYP2C9 Indeterminate,none
+*13/*61,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*13/*62,,CYP2C9 Indeterminate,none
+*13/*63,,CYP2C9 Indeterminate,none
+*13/*64,,CYP2C9 Indeterminate,none
+*13/*65,,CYP2C9 Indeterminate,none
+*13/*66,,CYP2C9 Indeterminate,none
+*13/*67,,CYP2C9 Indeterminate,none
+*13/*68,,CYP2C9 Indeterminate,none
+*13/*69,,CYP2C9 Indeterminate,none
+*13/*70,,CYP2C9 Indeterminate,none
+*13/*71,,CYP2C9 Indeterminate,none
+*13/*72,,CYP2C9 Indeterminate,none
+*13/*73,,CYP2C9 Indeterminate,none
+*13/*74,,CYP2C9 Indeterminate,none
+*13/*75,,CYP2C9 Indeterminate,none
+*14/*14,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*15,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*14/*16,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*17,,CYP2C9 Indeterminate,none
+*14/*18,,CYP2C9 Indeterminate,none
+*14/*19,,CYP2C9 Indeterminate,none
+*14/*20,,CYP2C9 Indeterminate,none
+*14/*21,,CYP2C9 Indeterminate,none
+*14/*22,,CYP2C9 Indeterminate,none
+*14/*23,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*24,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*14/*25,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*14/*26,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*27,,CYP2C9 Indeterminate,none
+*14/*28,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*29,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*30,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*31,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*32,,CYP2C9 Indeterminate,none
+*14/*33,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*14/*34,,CYP2C9 Indeterminate,none
+*14/*35,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*14/*36,,CYP2C9 Indeterminate,none
+*14/*37,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*38,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*39,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*14/*40,,CYP2C9 Indeterminate,none
+*14/*41,,CYP2C9 Indeterminate,none
+*14/*42,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*14/*43,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*14/*44,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*45,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*14/*46,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*47,,CYP2C9 Indeterminate,none
+*14/*48,,CYP2C9 Indeterminate,none
+*14/*49,,CYP2C9 Indeterminate,none
+*14/*50,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*51,,CYP2C9 Indeterminate,none
+*14/*52,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*14/*53,,CYP2C9 Indeterminate,none
+*14/*54,,CYP2C9 Indeterminate,none
+*14/*55,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*56,,CYP2C9 Indeterminate,none
+*14/*57,,CYP2C9 Indeterminate,none
+*14/*58,,CYP2C9 Indeterminate,none
+*14/*59,,CYP2C9 Indeterminate,none
+*14/*60,,CYP2C9 Indeterminate,none
+*14/*61,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*62,,CYP2C9 Indeterminate,none
+*14/*63,,CYP2C9 Indeterminate,none
+*14/*64,,CYP2C9 Indeterminate,none
+*14/*65,,CYP2C9 Indeterminate,none
+*14/*66,,CYP2C9 Indeterminate,none
+*14/*67,,CYP2C9 Indeterminate,none
+*14/*68,,CYP2C9 Indeterminate,none
+*14/*69,,CYP2C9 Indeterminate,none
+*14/*70,,CYP2C9 Indeterminate,none
+*14/*71,,CYP2C9 Indeterminate,none
+*14/*72,,CYP2C9 Indeterminate,none
+*14/*73,,CYP2C9 Indeterminate,none
+*14/*74,,CYP2C9 Indeterminate,none
+*14/*75,,CYP2C9 Indeterminate,none
+*15/*15,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*15/*16,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*15/*17,,CYP2C9 Indeterminate,none
+*15/*18,,CYP2C9 Indeterminate,none
+*15/*19,,CYP2C9 Indeterminate,none
+*15/*20,,CYP2C9 Indeterminate,none
+*15/*21,,CYP2C9 Indeterminate,none
+*15/*22,,CYP2C9 Indeterminate,none
+*15/*23,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*15/*24,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*15/*25,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*15/*26,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*15/*27,,CYP2C9 Indeterminate,none
+*15/*28,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*15/*29,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*15/*30,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*15/*31,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*15/*32,,CYP2C9 Indeterminate,none
+*15/*33,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*15/*34,,CYP2C9 Indeterminate,none
+*15/*35,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*15/*36,,CYP2C9 Indeterminate,none
+*15/*37,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*15/*38,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*15/*39,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*15/*40,,CYP2C9 Indeterminate,none
+*15/*41,,CYP2C9 Indeterminate,none
+*15/*42,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*15/*43,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*15/*44,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*15/*45,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*15/*46,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*15/*47,,CYP2C9 Indeterminate,none
+*15/*48,,CYP2C9 Indeterminate,none
+*15/*49,,CYP2C9 Indeterminate,none
+*15/*50,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*15/*51,,CYP2C9 Indeterminate,none
+*15/*52,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*15/*53,,CYP2C9 Indeterminate,none
+*15/*54,,CYP2C9 Indeterminate,none
+*15/*55,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*15/*56,,CYP2C9 Indeterminate,none
+*15/*57,,CYP2C9 Indeterminate,none
+*15/*58,,CYP2C9 Indeterminate,none
+*15/*59,,CYP2C9 Indeterminate,none
+*15/*60,,CYP2C9 Indeterminate,none
+*15/*61,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*15/*62,,CYP2C9 Indeterminate,none
+*15/*63,,CYP2C9 Indeterminate,none
+*15/*64,,CYP2C9 Indeterminate,none
+*15/*65,,CYP2C9 Indeterminate,none
+*15/*66,,CYP2C9 Indeterminate,none
+*15/*67,,CYP2C9 Indeterminate,none
+*15/*68,,CYP2C9 Indeterminate,none
+*15/*69,,CYP2C9 Indeterminate,none
+*15/*70,,CYP2C9 Indeterminate,none
+*15/*71,,CYP2C9 Indeterminate,none
+*15/*72,,CYP2C9 Indeterminate,none
+*15/*73,,CYP2C9 Indeterminate,none
+*15/*74,,CYP2C9 Indeterminate,none
+*15/*75,,CYP2C9 Indeterminate,none
+*16/*16,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*16/*17,,CYP2C9 Indeterminate,none
+*16/*18,,CYP2C9 Indeterminate,none
+*16/*19,,CYP2C9 Indeterminate,none
+*16/*20,,CYP2C9 Indeterminate,none
+*16/*21,,CYP2C9 Indeterminate,none
+*16/*22,,CYP2C9 Indeterminate,none
+*16/*23,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*16/*24,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*16/*25,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*16/*26,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*16/*27,,CYP2C9 Indeterminate,none
+*16/*28,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*16/*29,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*16/*30,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*16/*31,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*16/*32,,CYP2C9 Indeterminate,none
+*16/*33,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*16/*34,,CYP2C9 Indeterminate,none
+*16/*35,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*16/*36,,CYP2C9 Indeterminate,none
+*16/*37,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*16/*38,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*16/*39,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*16/*40,,CYP2C9 Indeterminate,none
+*16/*41,,CYP2C9 Indeterminate,none
+*16/*42,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*16/*43,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*16/*44,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*16/*45,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*16/*46,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*16/*47,,CYP2C9 Indeterminate,none
+*16/*48,,CYP2C9 Indeterminate,none
+*16/*49,,CYP2C9 Indeterminate,none
+*16/*50,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*16/*51,,CYP2C9 Indeterminate,none
+*16/*52,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*16/*53,,CYP2C9 Indeterminate,none
+*16/*54,,CYP2C9 Indeterminate,none
+*16/*55,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*16/*56,,CYP2C9 Indeterminate,none
+*16/*57,,CYP2C9 Indeterminate,none
+*16/*58,,CYP2C9 Indeterminate,none
+*16/*59,,CYP2C9 Indeterminate,none
+*16/*60,,CYP2C9 Indeterminate,none
+*16/*61,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*16/*62,,CYP2C9 Indeterminate,none
+*16/*63,,CYP2C9 Indeterminate,none
+*16/*64,,CYP2C9 Indeterminate,none
+*16/*65,,CYP2C9 Indeterminate,none
+*16/*66,,CYP2C9 Indeterminate,none
+*16/*67,,CYP2C9 Indeterminate,none
+*16/*68,,CYP2C9 Indeterminate,none
+*16/*69,,CYP2C9 Indeterminate,none
+*16/*70,,CYP2C9 Indeterminate,none
+*16/*71,,CYP2C9 Indeterminate,none
+*16/*72,,CYP2C9 Indeterminate,none
+*16/*73,,CYP2C9 Indeterminate,none
+*16/*74,,CYP2C9 Indeterminate,none
+*16/*75,,CYP2C9 Indeterminate,none
+*17/*17,,CYP2C9 Indeterminate,none
+*17/*18,,CYP2C9 Indeterminate,none
+*17/*19,,CYP2C9 Indeterminate,none
+*17/*20,,CYP2C9 Indeterminate,none
+*17/*21,,CYP2C9 Indeterminate,none
+*17/*22,,CYP2C9 Indeterminate,none
+*17/*23,,CYP2C9 Indeterminate,none
+*17/*24,,CYP2C9 Indeterminate,none
+*17/*25,,CYP2C9 Indeterminate,none
+*17/*26,,CYP2C9 Indeterminate,none
+*17/*27,,CYP2C9 Indeterminate,none
+*17/*28,,CYP2C9 Indeterminate,none
+*17/*29,,CYP2C9 Indeterminate,none
+*17/*30,,CYP2C9 Indeterminate,none
+*17/*31,,CYP2C9 Indeterminate,none
+*17/*32,,CYP2C9 Indeterminate,none
+*17/*33,,CYP2C9 Indeterminate,none
+*17/*34,,CYP2C9 Indeterminate,none
+*17/*35,,CYP2C9 Indeterminate,none
+*17/*36,,CYP2C9 Indeterminate,none
+*17/*37,,CYP2C9 Indeterminate,none
+*17/*38,,CYP2C9 Indeterminate,none
+*17/*39,,CYP2C9 Indeterminate,none
+*17/*40,,CYP2C9 Indeterminate,none
+*17/*41,,CYP2C9 Indeterminate,none
+*17/*42,,CYP2C9 Indeterminate,none
+*17/*43,,CYP2C9 Indeterminate,none
+*17/*44,,CYP2C9 Indeterminate,none
+*17/*45,,CYP2C9 Indeterminate,none
+*17/*46,,CYP2C9 Indeterminate,none
+*17/*47,,CYP2C9 Indeterminate,none
+*17/*48,,CYP2C9 Indeterminate,none
+*17/*49,,CYP2C9 Indeterminate,none
+*17/*50,,CYP2C9 Indeterminate,none
+*17/*51,,CYP2C9 Indeterminate,none
+*17/*52,,CYP2C9 Indeterminate,none
+*17/*53,,CYP2C9 Indeterminate,none
+*17/*54,,CYP2C9 Indeterminate,none
+*17/*55,,CYP2C9 Indeterminate,none
+*17/*56,,CYP2C9 Indeterminate,none
+*17/*57,,CYP2C9 Indeterminate,none
+*17/*58,,CYP2C9 Indeterminate,none
+*17/*59,,CYP2C9 Indeterminate,none
+*17/*60,,CYP2C9 Indeterminate,none
+*17/*61,,CYP2C9 Indeterminate,none
+*17/*62,,CYP2C9 Indeterminate,none
+*17/*63,,CYP2C9 Indeterminate,none
+*17/*64,,CYP2C9 Indeterminate,none
+*17/*65,,CYP2C9 Indeterminate,none
+*17/*66,,CYP2C9 Indeterminate,none
+*17/*67,,CYP2C9 Indeterminate,none
+*17/*68,,CYP2C9 Indeterminate,none
+*17/*69,,CYP2C9 Indeterminate,none
+*17/*70,,CYP2C9 Indeterminate,none
+*17/*71,,CYP2C9 Indeterminate,none
+*17/*72,,CYP2C9 Indeterminate,none
+*17/*73,,CYP2C9 Indeterminate,none
+*17/*74,,CYP2C9 Indeterminate,none
+*17/*75,,CYP2C9 Indeterminate,none
+*18/*18,,CYP2C9 Indeterminate,none
+*18/*19,,CYP2C9 Indeterminate,none
+*18/*20,,CYP2C9 Indeterminate,none
+*18/*21,,CYP2C9 Indeterminate,none
+*18/*22,,CYP2C9 Indeterminate,none
+*18/*23,,CYP2C9 Indeterminate,none
+*18/*24,,CYP2C9 Indeterminate,none
+*18/*25,,CYP2C9 Indeterminate,none
+*18/*26,,CYP2C9 Indeterminate,none
+*18/*27,,CYP2C9 Indeterminate,none
+*18/*28,,CYP2C9 Indeterminate,none
+*18/*29,,CYP2C9 Indeterminate,none
+*18/*30,,CYP2C9 Indeterminate,none
+*18/*31,,CYP2C9 Indeterminate,none
+*18/*32,,CYP2C9 Indeterminate,none
+*18/*33,,CYP2C9 Indeterminate,none
+*18/*34,,CYP2C9 Indeterminate,none
+*18/*35,,CYP2C9 Indeterminate,none
+*18/*36,,CYP2C9 Indeterminate,none
+*18/*37,,CYP2C9 Indeterminate,none
+*18/*38,,CYP2C9 Indeterminate,none
+*18/*39,,CYP2C9 Indeterminate,none
+*18/*40,,CYP2C9 Indeterminate,none
+*18/*41,,CYP2C9 Indeterminate,none
+*18/*42,,CYP2C9 Indeterminate,none
+*18/*43,,CYP2C9 Indeterminate,none
+*18/*44,,CYP2C9 Indeterminate,none
+*18/*45,,CYP2C9 Indeterminate,none
+*18/*46,,CYP2C9 Indeterminate,none
+*18/*47,,CYP2C9 Indeterminate,none
+*18/*48,,CYP2C9 Indeterminate,none
+*18/*49,,CYP2C9 Indeterminate,none
+*18/*50,,CYP2C9 Indeterminate,none
+*18/*51,,CYP2C9 Indeterminate,none
+*18/*52,,CYP2C9 Indeterminate,none
+*18/*53,,CYP2C9 Indeterminate,none
+*18/*54,,CYP2C9 Indeterminate,none
+*18/*55,,CYP2C9 Indeterminate,none
+*18/*56,,CYP2C9 Indeterminate,none
+*18/*57,,CYP2C9 Indeterminate,none
+*18/*58,,CYP2C9 Indeterminate,none
+*18/*59,,CYP2C9 Indeterminate,none
+*18/*60,,CYP2C9 Indeterminate,none
+*18/*61,,CYP2C9 Indeterminate,none
+*18/*62,,CYP2C9 Indeterminate,none
+*18/*63,,CYP2C9 Indeterminate,none
+*18/*64,,CYP2C9 Indeterminate,none
+*18/*65,,CYP2C9 Indeterminate,none
+*18/*66,,CYP2C9 Indeterminate,none
+*18/*67,,CYP2C9 Indeterminate,none
+*18/*68,,CYP2C9 Indeterminate,none
+*18/*69,,CYP2C9 Indeterminate,none
+*18/*70,,CYP2C9 Indeterminate,none
+*18/*71,,CYP2C9 Indeterminate,none
+*18/*72,,CYP2C9 Indeterminate,none
+*18/*73,,CYP2C9 Indeterminate,none
+*18/*74,,CYP2C9 Indeterminate,none
+*18/*75,,CYP2C9 Indeterminate,none
+*19/*19,,CYP2C9 Indeterminate,none
+*19/*20,,CYP2C9 Indeterminate,none
+*19/*21,,CYP2C9 Indeterminate,none
+*19/*22,,CYP2C9 Indeterminate,none
+*19/*23,,CYP2C9 Indeterminate,none
+*19/*24,,CYP2C9 Indeterminate,none
+*19/*25,,CYP2C9 Indeterminate,none
+*19/*26,,CYP2C9 Indeterminate,none
+*19/*27,,CYP2C9 Indeterminate,none
+*19/*28,,CYP2C9 Indeterminate,none
+*19/*29,,CYP2C9 Indeterminate,none
+*19/*30,,CYP2C9 Indeterminate,none
+*19/*31,,CYP2C9 Indeterminate,none
+*19/*32,,CYP2C9 Indeterminate,none
+*19/*33,,CYP2C9 Indeterminate,none
+*19/*34,,CYP2C9 Indeterminate,none
+*19/*35,,CYP2C9 Indeterminate,none
+*19/*36,,CYP2C9 Indeterminate,none
+*19/*37,,CYP2C9 Indeterminate,none
+*19/*38,,CYP2C9 Indeterminate,none
+*19/*39,,CYP2C9 Indeterminate,none
+*19/*40,,CYP2C9 Indeterminate,none
+*19/*41,,CYP2C9 Indeterminate,none
+*19/*42,,CYP2C9 Indeterminate,none
+*19/*43,,CYP2C9 Indeterminate,none
+*19/*44,,CYP2C9 Indeterminate,none
+*19/*45,,CYP2C9 Indeterminate,none
+*19/*46,,CYP2C9 Indeterminate,none
+*19/*47,,CYP2C9 Indeterminate,none
+*19/*48,,CYP2C9 Indeterminate,none
+*19/*49,,CYP2C9 Indeterminate,none
+*19/*50,,CYP2C9 Indeterminate,none
+*19/*51,,CYP2C9 Indeterminate,none
+*19/*52,,CYP2C9 Indeterminate,none
+*19/*53,,CYP2C9 Indeterminate,none
+*19/*54,,CYP2C9 Indeterminate,none
+*19/*55,,CYP2C9 Indeterminate,none
+*19/*56,,CYP2C9 Indeterminate,none
+*19/*57,,CYP2C9 Indeterminate,none
+*19/*58,,CYP2C9 Indeterminate,none
+*19/*59,,CYP2C9 Indeterminate,none
+*19/*60,,CYP2C9 Indeterminate,none
+*19/*61,,CYP2C9 Indeterminate,none
+*19/*62,,CYP2C9 Indeterminate,none
+*19/*63,,CYP2C9 Indeterminate,none
+*19/*64,,CYP2C9 Indeterminate,none
+*19/*65,,CYP2C9 Indeterminate,none
+*19/*66,,CYP2C9 Indeterminate,none
+*19/*67,,CYP2C9 Indeterminate,none
+*19/*68,,CYP2C9 Indeterminate,none
+*19/*69,,CYP2C9 Indeterminate,none
+*19/*70,,CYP2C9 Indeterminate,none
+*19/*71,,CYP2C9 Indeterminate,none
+*19/*72,,CYP2C9 Indeterminate,none
+*19/*73,,CYP2C9 Indeterminate,none
+*19/*74,,CYP2C9 Indeterminate,none
+*19/*75,,CYP2C9 Indeterminate,none
+*20/*20,,CYP2C9 Indeterminate,none
+*20/*21,,CYP2C9 Indeterminate,none
+*20/*22,,CYP2C9 Indeterminate,none
+*20/*23,,CYP2C9 Indeterminate,none
+*20/*24,,CYP2C9 Indeterminate,none
+*20/*25,,CYP2C9 Indeterminate,none
+*20/*26,,CYP2C9 Indeterminate,none
+*20/*27,,CYP2C9 Indeterminate,none
+*20/*28,,CYP2C9 Indeterminate,none
+*20/*29,,CYP2C9 Indeterminate,none
+*20/*30,,CYP2C9 Indeterminate,none
+*20/*31,,CYP2C9 Indeterminate,none
+*20/*32,,CYP2C9 Indeterminate,none
+*20/*33,,CYP2C9 Indeterminate,none
+*20/*34,,CYP2C9 Indeterminate,none
+*20/*35,,CYP2C9 Indeterminate,none
+*20/*36,,CYP2C9 Indeterminate,none
+*20/*37,,CYP2C9 Indeterminate,none
+*20/*38,,CYP2C9 Indeterminate,none
+*20/*39,,CYP2C9 Indeterminate,none
+*20/*40,,CYP2C9 Indeterminate,none
+*20/*41,,CYP2C9 Indeterminate,none
+*20/*42,,CYP2C9 Indeterminate,none
+*20/*43,,CYP2C9 Indeterminate,none
+*20/*44,,CYP2C9 Indeterminate,none
+*20/*45,,CYP2C9 Indeterminate,none
+*20/*46,,CYP2C9 Indeterminate,none
+*20/*47,,CYP2C9 Indeterminate,none
+*20/*48,,CYP2C9 Indeterminate,none
+*20/*49,,CYP2C9 Indeterminate,none
+*20/*50,,CYP2C9 Indeterminate,none
+*20/*51,,CYP2C9 Indeterminate,none
+*20/*52,,CYP2C9 Indeterminate,none
+*20/*53,,CYP2C9 Indeterminate,none
+*20/*54,,CYP2C9 Indeterminate,none
+*20/*55,,CYP2C9 Indeterminate,none
+*20/*56,,CYP2C9 Indeterminate,none
+*20/*57,,CYP2C9 Indeterminate,none
+*20/*58,,CYP2C9 Indeterminate,none
+*20/*59,,CYP2C9 Indeterminate,none
+*20/*60,,CYP2C9 Indeterminate,none
+*20/*61,,CYP2C9 Indeterminate,none
+*20/*62,,CYP2C9 Indeterminate,none
+*20/*63,,CYP2C9 Indeterminate,none
+*20/*64,,CYP2C9 Indeterminate,none
+*20/*65,,CYP2C9 Indeterminate,none
+*20/*66,,CYP2C9 Indeterminate,none
+*20/*67,,CYP2C9 Indeterminate,none
+*20/*68,,CYP2C9 Indeterminate,none
+*20/*69,,CYP2C9 Indeterminate,none
+*20/*70,,CYP2C9 Indeterminate,none
+*20/*71,,CYP2C9 Indeterminate,none
+*20/*72,,CYP2C9 Indeterminate,none
+*20/*73,,CYP2C9 Indeterminate,none
+*20/*74,,CYP2C9 Indeterminate,none
+*20/*75,,CYP2C9 Indeterminate,none
+*21/*21,,CYP2C9 Indeterminate,none
+*21/*22,,CYP2C9 Indeterminate,none
+*21/*23,,CYP2C9 Indeterminate,none
+*21/*24,,CYP2C9 Indeterminate,none
+*21/*25,,CYP2C9 Indeterminate,none
+*21/*26,,CYP2C9 Indeterminate,none
+*21/*27,,CYP2C9 Indeterminate,none
+*21/*28,,CYP2C9 Indeterminate,none
+*21/*29,,CYP2C9 Indeterminate,none
+*21/*30,,CYP2C9 Indeterminate,none
+*21/*31,,CYP2C9 Indeterminate,none
+*21/*32,,CYP2C9 Indeterminate,none
+*21/*33,,CYP2C9 Indeterminate,none
+*21/*34,,CYP2C9 Indeterminate,none
+*21/*35,,CYP2C9 Indeterminate,none
+*21/*36,,CYP2C9 Indeterminate,none
+*21/*37,,CYP2C9 Indeterminate,none
+*21/*38,,CYP2C9 Indeterminate,none
+*21/*39,,CYP2C9 Indeterminate,none
+*21/*40,,CYP2C9 Indeterminate,none
+*21/*41,,CYP2C9 Indeterminate,none
+*21/*42,,CYP2C9 Indeterminate,none
+*21/*43,,CYP2C9 Indeterminate,none
+*21/*44,,CYP2C9 Indeterminate,none
+*21/*45,,CYP2C9 Indeterminate,none
+*21/*46,,CYP2C9 Indeterminate,none
+*21/*47,,CYP2C9 Indeterminate,none
+*21/*48,,CYP2C9 Indeterminate,none
+*21/*49,,CYP2C9 Indeterminate,none
+*21/*50,,CYP2C9 Indeterminate,none
+*21/*51,,CYP2C9 Indeterminate,none
+*21/*52,,CYP2C9 Indeterminate,none
+*21/*53,,CYP2C9 Indeterminate,none
+*21/*54,,CYP2C9 Indeterminate,none
+*21/*55,,CYP2C9 Indeterminate,none
+*21/*56,,CYP2C9 Indeterminate,none
+*21/*57,,CYP2C9 Indeterminate,none
+*21/*58,,CYP2C9 Indeterminate,none
+*21/*59,,CYP2C9 Indeterminate,none
+*21/*60,,CYP2C9 Indeterminate,none
+*21/*61,,CYP2C9 Indeterminate,none
+*21/*62,,CYP2C9 Indeterminate,none
+*21/*63,,CYP2C9 Indeterminate,none
+*21/*64,,CYP2C9 Indeterminate,none
+*21/*65,,CYP2C9 Indeterminate,none
+*21/*66,,CYP2C9 Indeterminate,none
+*21/*67,,CYP2C9 Indeterminate,none
+*21/*68,,CYP2C9 Indeterminate,none
+*21/*69,,CYP2C9 Indeterminate,none
+*21/*70,,CYP2C9 Indeterminate,none
+*21/*71,,CYP2C9 Indeterminate,none
+*21/*72,,CYP2C9 Indeterminate,none
+*21/*73,,CYP2C9 Indeterminate,none
+*21/*74,,CYP2C9 Indeterminate,none
+*21/*75,,CYP2C9 Indeterminate,none
+*22/*22,,CYP2C9 Indeterminate,none
+*22/*23,,CYP2C9 Indeterminate,none
+*22/*24,,CYP2C9 Indeterminate,none
+*22/*25,,CYP2C9 Indeterminate,none
+*22/*26,,CYP2C9 Indeterminate,none
+*22/*27,,CYP2C9 Indeterminate,none
+*22/*28,,CYP2C9 Indeterminate,none
+*22/*29,,CYP2C9 Indeterminate,none
+*22/*30,,CYP2C9 Indeterminate,none
+*22/*31,,CYP2C9 Indeterminate,none
+*22/*32,,CYP2C9 Indeterminate,none
+*22/*33,,CYP2C9 Indeterminate,none
+*22/*34,,CYP2C9 Indeterminate,none
+*22/*35,,CYP2C9 Indeterminate,none
+*22/*36,,CYP2C9 Indeterminate,none
+*22/*37,,CYP2C9 Indeterminate,none
+*22/*38,,CYP2C9 Indeterminate,none
+*22/*39,,CYP2C9 Indeterminate,none
+*22/*40,,CYP2C9 Indeterminate,none
+*22/*41,,CYP2C9 Indeterminate,none
+*22/*42,,CYP2C9 Indeterminate,none
+*22/*43,,CYP2C9 Indeterminate,none
+*22/*44,,CYP2C9 Indeterminate,none
+*22/*45,,CYP2C9 Indeterminate,none
+*22/*46,,CYP2C9 Indeterminate,none
+*22/*47,,CYP2C9 Indeterminate,none
+*22/*48,,CYP2C9 Indeterminate,none
+*22/*49,,CYP2C9 Indeterminate,none
+*22/*50,,CYP2C9 Indeterminate,none
+*22/*51,,CYP2C9 Indeterminate,none
+*22/*52,,CYP2C9 Indeterminate,none
+*22/*53,,CYP2C9 Indeterminate,none
+*22/*54,,CYP2C9 Indeterminate,none
+*22/*55,,CYP2C9 Indeterminate,none
+*22/*56,,CYP2C9 Indeterminate,none
+*22/*57,,CYP2C9 Indeterminate,none
+*22/*58,,CYP2C9 Indeterminate,none
+*22/*59,,CYP2C9 Indeterminate,none
+*22/*60,,CYP2C9 Indeterminate,none
+*22/*61,,CYP2C9 Indeterminate,none
+*22/*62,,CYP2C9 Indeterminate,none
+*22/*63,,CYP2C9 Indeterminate,none
+*22/*64,,CYP2C9 Indeterminate,none
+*22/*65,,CYP2C9 Indeterminate,none
+*22/*66,,CYP2C9 Indeterminate,none
+*22/*67,,CYP2C9 Indeterminate,none
+*22/*68,,CYP2C9 Indeterminate,none
+*22/*69,,CYP2C9 Indeterminate,none
+*22/*70,,CYP2C9 Indeterminate,none
+*22/*71,,CYP2C9 Indeterminate,none
+*22/*72,,CYP2C9 Indeterminate,none
+*22/*73,,CYP2C9 Indeterminate,none
+*22/*74,,CYP2C9 Indeterminate,none
+*22/*75,,CYP2C9 Indeterminate,none
+*23/*23,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*24,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*23/*25,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*23/*26,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*27,,CYP2C9 Indeterminate,none
+*23/*28,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*29,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*30,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*31,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*32,,CYP2C9 Indeterminate,none
+*23/*33,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*23/*34,,CYP2C9 Indeterminate,none
+*23/*35,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*23/*36,,CYP2C9 Indeterminate,none
+*23/*37,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*38,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*39,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*23/*40,,CYP2C9 Indeterminate,none
+*23/*41,,CYP2C9 Indeterminate,none
+*23/*42,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*23/*43,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*23/*44,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*45,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*23/*46,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*47,,CYP2C9 Indeterminate,none
+*23/*48,,CYP2C9 Indeterminate,none
+*23/*49,,CYP2C9 Indeterminate,none
+*23/*50,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*51,,CYP2C9 Indeterminate,none
+*23/*52,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*23/*53,,CYP2C9 Indeterminate,none
+*23/*54,,CYP2C9 Indeterminate,none
+*23/*55,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*56,,CYP2C9 Indeterminate,none
+*23/*57,,CYP2C9 Indeterminate,none
+*23/*58,,CYP2C9 Indeterminate,none
+*23/*59,,CYP2C9 Indeterminate,none
+*23/*60,,CYP2C9 Indeterminate,none
+*23/*61,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*62,,CYP2C9 Indeterminate,none
+*23/*63,,CYP2C9 Indeterminate,none
+*23/*64,,CYP2C9 Indeterminate,none
+*23/*65,,CYP2C9 Indeterminate,none
+*23/*66,,CYP2C9 Indeterminate,none
+*23/*67,,CYP2C9 Indeterminate,none
+*23/*68,,CYP2C9 Indeterminate,none
+*23/*69,,CYP2C9 Indeterminate,none
+*23/*70,,CYP2C9 Indeterminate,none
+*23/*71,,CYP2C9 Indeterminate,none
+*23/*72,,CYP2C9 Indeterminate,none
+*23/*73,,CYP2C9 Indeterminate,none
+*23/*74,,CYP2C9 Indeterminate,none
+*23/*75,,CYP2C9 Indeterminate,none
+*24/*24,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*24/*25,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*24/*26,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*24/*27,,CYP2C9 Indeterminate,none
+*24/*28,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*24/*29,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*24/*30,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*24/*31,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*24/*32,,CYP2C9 Indeterminate,none
+*24/*33,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*24/*34,,CYP2C9 Indeterminate,none
+*24/*35,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*24/*36,,CYP2C9 Indeterminate,none
+*24/*37,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*24/*38,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*24/*39,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*24/*40,,CYP2C9 Indeterminate,none
+*24/*41,,CYP2C9 Indeterminate,none
+*24/*42,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*24/*43,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*24/*44,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*24/*45,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*24/*46,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*24/*47,,CYP2C9 Indeterminate,none
+*24/*48,,CYP2C9 Indeterminate,none
+*24/*49,,CYP2C9 Indeterminate,none
+*24/*50,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*24/*51,,CYP2C9 Indeterminate,none
+*24/*52,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*24/*53,,CYP2C9 Indeterminate,none
+*24/*54,,CYP2C9 Indeterminate,none
+*24/*55,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*24/*56,,CYP2C9 Indeterminate,none
+*24/*57,,CYP2C9 Indeterminate,none
+*24/*58,,CYP2C9 Indeterminate,none
+*24/*59,,CYP2C9 Indeterminate,none
+*24/*60,,CYP2C9 Indeterminate,none
+*24/*61,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*24/*62,,CYP2C9 Indeterminate,none
+*24/*63,,CYP2C9 Indeterminate,none
+*24/*64,,CYP2C9 Indeterminate,none
+*24/*65,,CYP2C9 Indeterminate,none
+*24/*66,,CYP2C9 Indeterminate,none
+*24/*67,,CYP2C9 Indeterminate,none
+*24/*68,,CYP2C9 Indeterminate,none
+*24/*69,,CYP2C9 Indeterminate,none
+*24/*70,,CYP2C9 Indeterminate,none
+*24/*71,,CYP2C9 Indeterminate,none
+*24/*72,,CYP2C9 Indeterminate,none
+*24/*73,,CYP2C9 Indeterminate,none
+*24/*74,,CYP2C9 Indeterminate,none
+*24/*75,,CYP2C9 Indeterminate,none
+*25/*25,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*25/*26,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*25/*27,,CYP2C9 Indeterminate,none
+*25/*28,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*25/*29,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*25/*30,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*25/*31,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*25/*32,,CYP2C9 Indeterminate,none
+*25/*33,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*25/*34,,CYP2C9 Indeterminate,none
+*25/*35,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*25/*36,,CYP2C9 Indeterminate,none
+*25/*37,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*25/*38,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*25/*39,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*25/*40,,CYP2C9 Indeterminate,none
+*25/*41,,CYP2C9 Indeterminate,none
+*25/*42,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*25/*43,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*25/*44,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*25/*45,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*25/*46,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*25/*47,,CYP2C9 Indeterminate,none
+*25/*48,,CYP2C9 Indeterminate,none
+*25/*49,,CYP2C9 Indeterminate,none
+*25/*50,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*25/*51,,CYP2C9 Indeterminate,none
+*25/*52,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*25/*53,,CYP2C9 Indeterminate,none
+*25/*54,,CYP2C9 Indeterminate,none
+*25/*55,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*25/*56,,CYP2C9 Indeterminate,none
+*25/*57,,CYP2C9 Indeterminate,none
+*25/*58,,CYP2C9 Indeterminate,none
+*25/*59,,CYP2C9 Indeterminate,none
+*25/*60,,CYP2C9 Indeterminate,none
+*25/*61,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*25/*62,,CYP2C9 Indeterminate,none
+*25/*63,,CYP2C9 Indeterminate,none
+*25/*64,,CYP2C9 Indeterminate,none
+*25/*65,,CYP2C9 Indeterminate,none
+*25/*66,,CYP2C9 Indeterminate,none
+*25/*67,,CYP2C9 Indeterminate,none
+*25/*68,,CYP2C9 Indeterminate,none
+*25/*69,,CYP2C9 Indeterminate,none
+*25/*70,,CYP2C9 Indeterminate,none
+*25/*71,,CYP2C9 Indeterminate,none
+*25/*72,,CYP2C9 Indeterminate,none
+*25/*73,,CYP2C9 Indeterminate,none
+*25/*74,,CYP2C9 Indeterminate,none
+*25/*75,,CYP2C9 Indeterminate,none
+*26/*26,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*26/*27,,CYP2C9 Indeterminate,none
+*26/*28,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*26/*29,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*26/*30,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*26/*31,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*26/*32,,CYP2C9 Indeterminate,none
+*26/*33,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*26/*34,,CYP2C9 Indeterminate,none
+*26/*35,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*26/*36,,CYP2C9 Indeterminate,none
+*26/*37,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*26/*38,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*26/*39,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*26/*40,,CYP2C9 Indeterminate,none
+*26/*41,,CYP2C9 Indeterminate,none
+*26/*42,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*26/*43,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*26/*44,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*26/*45,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*26/*46,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*26/*47,,CYP2C9 Indeterminate,none
+*26/*48,,CYP2C9 Indeterminate,none
+*26/*49,,CYP2C9 Indeterminate,none
+*26/*50,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*26/*51,,CYP2C9 Indeterminate,none
+*26/*52,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*26/*53,,CYP2C9 Indeterminate,none
+*26/*54,,CYP2C9 Indeterminate,none
+*26/*55,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*26/*56,,CYP2C9 Indeterminate,none
+*26/*57,,CYP2C9 Indeterminate,none
+*26/*58,,CYP2C9 Indeterminate,none
+*26/*59,,CYP2C9 Indeterminate,none
+*26/*60,,CYP2C9 Indeterminate,none
+*26/*61,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*26/*62,,CYP2C9 Indeterminate,none
+*26/*63,,CYP2C9 Indeterminate,none
+*26/*64,,CYP2C9 Indeterminate,none
+*26/*65,,CYP2C9 Indeterminate,none
+*26/*66,,CYP2C9 Indeterminate,none
+*26/*67,,CYP2C9 Indeterminate,none
+*26/*68,,CYP2C9 Indeterminate,none
+*26/*69,,CYP2C9 Indeterminate,none
+*26/*70,,CYP2C9 Indeterminate,none
+*26/*71,,CYP2C9 Indeterminate,none
+*26/*72,,CYP2C9 Indeterminate,none
+*26/*73,,CYP2C9 Indeterminate,none
+*26/*74,,CYP2C9 Indeterminate,none
+*26/*75,,CYP2C9 Indeterminate,none
+*27/*27,,CYP2C9 Indeterminate,none
+*27/*28,,CYP2C9 Indeterminate,none
+*27/*29,,CYP2C9 Indeterminate,none
+*27/*30,,CYP2C9 Indeterminate,none
+*27/*31,,CYP2C9 Indeterminate,none
+*27/*32,,CYP2C9 Indeterminate,none
+*27/*33,,CYP2C9 Indeterminate,none
+*27/*34,,CYP2C9 Indeterminate,none
+*27/*35,,CYP2C9 Indeterminate,none
+*27/*36,,CYP2C9 Indeterminate,none
+*27/*37,,CYP2C9 Indeterminate,none
+*27/*38,,CYP2C9 Indeterminate,none
+*27/*39,,CYP2C9 Indeterminate,none
+*27/*40,,CYP2C9 Indeterminate,none
+*27/*41,,CYP2C9 Indeterminate,none
+*27/*42,,CYP2C9 Indeterminate,none
+*27/*43,,CYP2C9 Indeterminate,none
+*27/*44,,CYP2C9 Indeterminate,none
+*27/*45,,CYP2C9 Indeterminate,none
+*27/*46,,CYP2C9 Indeterminate,none
+*27/*47,,CYP2C9 Indeterminate,none
+*27/*48,,CYP2C9 Indeterminate,none
+*27/*49,,CYP2C9 Indeterminate,none
+*27/*50,,CYP2C9 Indeterminate,none
+*27/*51,,CYP2C9 Indeterminate,none
+*27/*52,,CYP2C9 Indeterminate,none
+*27/*53,,CYP2C9 Indeterminate,none
+*27/*54,,CYP2C9 Indeterminate,none
+*27/*55,,CYP2C9 Indeterminate,none
+*27/*56,,CYP2C9 Indeterminate,none
+*27/*57,,CYP2C9 Indeterminate,none
+*27/*58,,CYP2C9 Indeterminate,none
+*27/*59,,CYP2C9 Indeterminate,none
+*27/*60,,CYP2C9 Indeterminate,none
+*27/*61,,CYP2C9 Indeterminate,none
+*27/*62,,CYP2C9 Indeterminate,none
+*27/*63,,CYP2C9 Indeterminate,none
+*27/*64,,CYP2C9 Indeterminate,none
+*27/*65,,CYP2C9 Indeterminate,none
+*27/*66,,CYP2C9 Indeterminate,none
+*27/*67,,CYP2C9 Indeterminate,none
+*27/*68,,CYP2C9 Indeterminate,none
+*27/*69,,CYP2C9 Indeterminate,none
+*27/*70,,CYP2C9 Indeterminate,none
+*27/*71,,CYP2C9 Indeterminate,none
+*27/*72,,CYP2C9 Indeterminate,none
+*27/*73,,CYP2C9 Indeterminate,none
+*27/*74,,CYP2C9 Indeterminate,none
+*27/*75,,CYP2C9 Indeterminate,none
+*28/*28,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*28/*29,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*28/*30,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*28/*31,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*28/*32,,CYP2C9 Indeterminate,none
+*28/*33,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*28/*34,,CYP2C9 Indeterminate,none
+*28/*35,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*28/*36,,CYP2C9 Indeterminate,none
+*28/*37,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*28/*38,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*28/*39,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*28/*40,,CYP2C9 Indeterminate,none
+*28/*41,,CYP2C9 Indeterminate,none
+*28/*42,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*28/*43,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*28/*44,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*28/*45,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*28/*46,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*28/*47,,CYP2C9 Indeterminate,none
+*28/*48,,CYP2C9 Indeterminate,none
+*28/*49,,CYP2C9 Indeterminate,none
+*28/*50,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*28/*51,,CYP2C9 Indeterminate,none
+*28/*52,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*28/*53,,CYP2C9 Indeterminate,none
+*28/*54,,CYP2C9 Indeterminate,none
+*28/*55,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*28/*56,,CYP2C9 Indeterminate,none
+*28/*57,,CYP2C9 Indeterminate,none
+*28/*58,,CYP2C9 Indeterminate,none
+*28/*59,,CYP2C9 Indeterminate,none
+*28/*60,,CYP2C9 Indeterminate,none
+*28/*61,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*28/*62,,CYP2C9 Indeterminate,none
+*28/*63,,CYP2C9 Indeterminate,none
+*28/*64,,CYP2C9 Indeterminate,none
+*28/*65,,CYP2C9 Indeterminate,none
+*28/*66,,CYP2C9 Indeterminate,none
+*28/*67,,CYP2C9 Indeterminate,none
+*28/*68,,CYP2C9 Indeterminate,none
+*28/*69,,CYP2C9 Indeterminate,none
+*28/*70,,CYP2C9 Indeterminate,none
+*28/*71,,CYP2C9 Indeterminate,none
+*28/*72,,CYP2C9 Indeterminate,none
+*28/*73,,CYP2C9 Indeterminate,none
+*28/*74,,CYP2C9 Indeterminate,none
+*28/*75,,CYP2C9 Indeterminate,none
+*29/*29,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*29/*30,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*29/*31,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*29/*32,,CYP2C9 Indeterminate,none
+*29/*33,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*29/*34,,CYP2C9 Indeterminate,none
+*29/*35,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*29/*36,,CYP2C9 Indeterminate,none
+*29/*37,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*29/*38,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*29/*39,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*29/*40,,CYP2C9 Indeterminate,none
+*29/*41,,CYP2C9 Indeterminate,none
+*29/*42,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*29/*43,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*29/*44,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*29/*45,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*29/*46,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*29/*47,,CYP2C9 Indeterminate,none
+*29/*48,,CYP2C9 Indeterminate,none
+*29/*49,,CYP2C9 Indeterminate,none
+*29/*50,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*29/*51,,CYP2C9 Indeterminate,none
+*29/*52,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*29/*53,,CYP2C9 Indeterminate,none
+*29/*54,,CYP2C9 Indeterminate,none
+*29/*55,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*29/*56,,CYP2C9 Indeterminate,none
+*29/*57,,CYP2C9 Indeterminate,none
+*29/*58,,CYP2C9 Indeterminate,none
+*29/*59,,CYP2C9 Indeterminate,none
+*29/*60,,CYP2C9 Indeterminate,none
+*29/*61,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*29/*62,,CYP2C9 Indeterminate,none
+*29/*63,,CYP2C9 Indeterminate,none
+*29/*64,,CYP2C9 Indeterminate,none
+*29/*65,,CYP2C9 Indeterminate,none
+*29/*66,,CYP2C9 Indeterminate,none
+*29/*67,,CYP2C9 Indeterminate,none
+*29/*68,,CYP2C9 Indeterminate,none
+*29/*69,,CYP2C9 Indeterminate,none
+*29/*70,,CYP2C9 Indeterminate,none
+*29/*71,,CYP2C9 Indeterminate,none
+*29/*72,,CYP2C9 Indeterminate,none
+*29/*73,,CYP2C9 Indeterminate,none
+*29/*74,,CYP2C9 Indeterminate,none
+*29/*75,,CYP2C9 Indeterminate,none
+*30/*30,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*30/*31,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*30/*32,,CYP2C9 Indeterminate,none
+*30/*33,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*30/*34,,CYP2C9 Indeterminate,none
+*30/*35,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*30/*36,,CYP2C9 Indeterminate,none
+*30/*37,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*30/*38,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*30/*39,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*30/*40,,CYP2C9 Indeterminate,none
+*30/*41,,CYP2C9 Indeterminate,none
+*30/*42,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*30/*43,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*30/*44,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*30/*45,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*30/*46,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*30/*47,,CYP2C9 Indeterminate,none
+*30/*48,,CYP2C9 Indeterminate,none
+*30/*49,,CYP2C9 Indeterminate,none
+*30/*50,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*30/*51,,CYP2C9 Indeterminate,none
+*30/*52,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*30/*53,,CYP2C9 Indeterminate,none
+*30/*54,,CYP2C9 Indeterminate,none
+*30/*55,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*30/*56,,CYP2C9 Indeterminate,none
+*30/*57,,CYP2C9 Indeterminate,none
+*30/*58,,CYP2C9 Indeterminate,none
+*30/*59,,CYP2C9 Indeterminate,none
+*30/*60,,CYP2C9 Indeterminate,none
+*30/*61,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*30/*62,,CYP2C9 Indeterminate,none
+*30/*63,,CYP2C9 Indeterminate,none
+*30/*64,,CYP2C9 Indeterminate,none
+*30/*65,,CYP2C9 Indeterminate,none
+*30/*66,,CYP2C9 Indeterminate,none
+*30/*67,,CYP2C9 Indeterminate,none
+*30/*68,,CYP2C9 Indeterminate,none
+*30/*69,,CYP2C9 Indeterminate,none
+*30/*70,,CYP2C9 Indeterminate,none
+*30/*71,,CYP2C9 Indeterminate,none
+*30/*72,,CYP2C9 Indeterminate,none
+*30/*73,,CYP2C9 Indeterminate,none
+*30/*74,,CYP2C9 Indeterminate,none
+*30/*75,,CYP2C9 Indeterminate,none
+*31/*31,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*31/*32,,CYP2C9 Indeterminate,none
+*31/*33,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*31/*34,,CYP2C9 Indeterminate,none
+*31/*35,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*31/*36,,CYP2C9 Indeterminate,none
+*31/*37,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*31/*38,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*31/*39,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*31/*40,,CYP2C9 Indeterminate,none
+*31/*41,,CYP2C9 Indeterminate,none
+*31/*42,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*31/*43,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*31/*44,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*31/*45,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*31/*46,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*31/*47,,CYP2C9 Indeterminate,none
+*31/*48,,CYP2C9 Indeterminate,none
+*31/*49,,CYP2C9 Indeterminate,none
+*31/*50,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*31/*51,,CYP2C9 Indeterminate,none
+*31/*52,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*31/*53,,CYP2C9 Indeterminate,none
+*31/*54,,CYP2C9 Indeterminate,none
+*31/*55,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*31/*56,,CYP2C9 Indeterminate,none
+*31/*57,,CYP2C9 Indeterminate,none
+*31/*58,,CYP2C9 Indeterminate,none
+*31/*59,,CYP2C9 Indeterminate,none
+*31/*60,,CYP2C9 Indeterminate,none
+*31/*61,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*31/*62,,CYP2C9 Indeterminate,none
+*31/*63,,CYP2C9 Indeterminate,none
+*31/*64,,CYP2C9 Indeterminate,none
+*31/*65,,CYP2C9 Indeterminate,none
+*31/*66,,CYP2C9 Indeterminate,none
+*31/*67,,CYP2C9 Indeterminate,none
+*31/*68,,CYP2C9 Indeterminate,none
+*31/*69,,CYP2C9 Indeterminate,none
+*31/*70,,CYP2C9 Indeterminate,none
+*31/*71,,CYP2C9 Indeterminate,none
+*31/*72,,CYP2C9 Indeterminate,none
+*31/*73,,CYP2C9 Indeterminate,none
+*31/*74,,CYP2C9 Indeterminate,none
+*31/*75,,CYP2C9 Indeterminate,none
+*32/*32,,CYP2C9 Indeterminate,none
+*32/*33,,CYP2C9 Indeterminate,none
+*32/*34,,CYP2C9 Indeterminate,none
+*32/*35,,CYP2C9 Indeterminate,none
+*32/*36,,CYP2C9 Indeterminate,none
+*32/*37,,CYP2C9 Indeterminate,none
+*32/*38,,CYP2C9 Indeterminate,none
+*32/*39,,CYP2C9 Indeterminate,none
+*32/*40,,CYP2C9 Indeterminate,none
+*32/*41,,CYP2C9 Indeterminate,none
+*32/*42,,CYP2C9 Indeterminate,none
+*32/*43,,CYP2C9 Indeterminate,none
+*32/*44,,CYP2C9 Indeterminate,none
+*32/*45,,CYP2C9 Indeterminate,none
+*32/*46,,CYP2C9 Indeterminate,none
+*32/*47,,CYP2C9 Indeterminate,none
+*32/*48,,CYP2C9 Indeterminate,none
+*32/*49,,CYP2C9 Indeterminate,none
+*32/*50,,CYP2C9 Indeterminate,none
+*32/*51,,CYP2C9 Indeterminate,none
+*32/*52,,CYP2C9 Indeterminate,none
+*32/*53,,CYP2C9 Indeterminate,none
+*32/*54,,CYP2C9 Indeterminate,none
+*32/*55,,CYP2C9 Indeterminate,none
+*32/*56,,CYP2C9 Indeterminate,none
+*32/*57,,CYP2C9 Indeterminate,none
+*32/*58,,CYP2C9 Indeterminate,none
+*32/*59,,CYP2C9 Indeterminate,none
+*32/*60,,CYP2C9 Indeterminate,none
+*32/*61,,CYP2C9 Indeterminate,none
+*32/*62,,CYP2C9 Indeterminate,none
+*32/*63,,CYP2C9 Indeterminate,none
+*32/*64,,CYP2C9 Indeterminate,none
+*32/*65,,CYP2C9 Indeterminate,none
+*32/*66,,CYP2C9 Indeterminate,none
+*32/*67,,CYP2C9 Indeterminate,none
+*32/*68,,CYP2C9 Indeterminate,none
+*32/*69,,CYP2C9 Indeterminate,none
+*32/*70,,CYP2C9 Indeterminate,none
+*32/*71,,CYP2C9 Indeterminate,none
+*32/*72,,CYP2C9 Indeterminate,none
+*32/*73,,CYP2C9 Indeterminate,none
+*32/*74,,CYP2C9 Indeterminate,none
+*32/*75,,CYP2C9 Indeterminate,none
+*33/*33,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*33/*34,,CYP2C9 Indeterminate,none
+*33/*35,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*33/*36,,CYP2C9 Indeterminate,none
+*33/*37,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*33/*38,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*33/*39,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*33/*40,,CYP2C9 Indeterminate,none
+*33/*41,,CYP2C9 Indeterminate,none
+*33/*42,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*33/*43,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*33/*44,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*33/*45,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*33/*46,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*33/*47,,CYP2C9 Indeterminate,none
+*33/*48,,CYP2C9 Indeterminate,none
+*33/*49,,CYP2C9 Indeterminate,none
+*33/*50,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*33/*51,,CYP2C9 Indeterminate,none
+*33/*52,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*33/*53,,CYP2C9 Indeterminate,none
+*33/*54,,CYP2C9 Indeterminate,none
+*33/*55,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*33/*56,,CYP2C9 Indeterminate,none
+*33/*57,,CYP2C9 Indeterminate,none
+*33/*58,,CYP2C9 Indeterminate,none
+*33/*59,,CYP2C9 Indeterminate,none
+*33/*60,,CYP2C9 Indeterminate,none
+*33/*61,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*33/*62,,CYP2C9 Indeterminate,none
+*33/*63,,CYP2C9 Indeterminate,none
+*33/*64,,CYP2C9 Indeterminate,none
+*33/*65,,CYP2C9 Indeterminate,none
+*33/*66,,CYP2C9 Indeterminate,none
+*33/*67,,CYP2C9 Indeterminate,none
+*33/*68,,CYP2C9 Indeterminate,none
+*33/*69,,CYP2C9 Indeterminate,none
+*33/*70,,CYP2C9 Indeterminate,none
+*33/*71,,CYP2C9 Indeterminate,none
+*33/*72,,CYP2C9 Indeterminate,none
+*33/*73,,CYP2C9 Indeterminate,none
+*33/*74,,CYP2C9 Indeterminate,none
+*33/*75,,CYP2C9 Indeterminate,none
+*34/*34,,CYP2C9 Indeterminate,none
+*34/*35,,CYP2C9 Indeterminate,none
+*34/*36,,CYP2C9 Indeterminate,none
+*34/*37,,CYP2C9 Indeterminate,none
+*34/*38,,CYP2C9 Indeterminate,none
+*34/*39,,CYP2C9 Indeterminate,none
+*34/*40,,CYP2C9 Indeterminate,none
+*34/*41,,CYP2C9 Indeterminate,none
+*34/*42,,CYP2C9 Indeterminate,none
+*34/*43,,CYP2C9 Indeterminate,none
+*34/*44,,CYP2C9 Indeterminate,none
+*34/*45,,CYP2C9 Indeterminate,none
+*34/*46,,CYP2C9 Indeterminate,none
+*34/*47,,CYP2C9 Indeterminate,none
+*34/*48,,CYP2C9 Indeterminate,none
+*34/*49,,CYP2C9 Indeterminate,none
+*34/*50,,CYP2C9 Indeterminate,none
+*34/*51,,CYP2C9 Indeterminate,none
+*34/*52,,CYP2C9 Indeterminate,none
+*34/*53,,CYP2C9 Indeterminate,none
+*34/*54,,CYP2C9 Indeterminate,none
+*34/*55,,CYP2C9 Indeterminate,none
+*34/*56,,CYP2C9 Indeterminate,none
+*34/*57,,CYP2C9 Indeterminate,none
+*34/*58,,CYP2C9 Indeterminate,none
+*34/*59,,CYP2C9 Indeterminate,none
+*34/*60,,CYP2C9 Indeterminate,none
+*34/*61,,CYP2C9 Indeterminate,none
+*34/*62,,CYP2C9 Indeterminate,none
+*34/*63,,CYP2C9 Indeterminate,none
+*34/*64,,CYP2C9 Indeterminate,none
+*34/*65,,CYP2C9 Indeterminate,none
+*34/*66,,CYP2C9 Indeterminate,none
+*34/*67,,CYP2C9 Indeterminate,none
+*34/*68,,CYP2C9 Indeterminate,none
+*34/*69,,CYP2C9 Indeterminate,none
+*34/*70,,CYP2C9 Indeterminate,none
+*34/*71,,CYP2C9 Indeterminate,none
+*34/*72,,CYP2C9 Indeterminate,none
+*34/*73,,CYP2C9 Indeterminate,none
+*34/*74,,CYP2C9 Indeterminate,none
+*34/*75,,CYP2C9 Indeterminate,none
+*35/*35,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*35/*36,,CYP2C9 Indeterminate,none
+*35/*37,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*35/*38,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*35/*39,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*35/*40,,CYP2C9 Indeterminate,none
+*35/*41,,CYP2C9 Indeterminate,none
+*35/*42,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*35/*43,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*35/*44,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*35/*45,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*35/*46,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*35/*47,,CYP2C9 Indeterminate,none
+*35/*48,,CYP2C9 Indeterminate,none
+*35/*49,,CYP2C9 Indeterminate,none
+*35/*50,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*35/*51,,CYP2C9 Indeterminate,none
+*35/*52,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*35/*53,,CYP2C9 Indeterminate,none
+*35/*54,,CYP2C9 Indeterminate,none
+*35/*55,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*35/*56,,CYP2C9 Indeterminate,none
+*35/*57,,CYP2C9 Indeterminate,none
+*35/*58,,CYP2C9 Indeterminate,none
+*35/*59,,CYP2C9 Indeterminate,none
+*35/*60,,CYP2C9 Indeterminate,none
+*35/*61,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*35/*62,,CYP2C9 Indeterminate,none
+*35/*63,,CYP2C9 Indeterminate,none
+*35/*64,,CYP2C9 Indeterminate,none
+*35/*65,,CYP2C9 Indeterminate,none
+*35/*66,,CYP2C9 Indeterminate,none
+*35/*67,,CYP2C9 Indeterminate,none
+*35/*68,,CYP2C9 Indeterminate,none
+*35/*69,,CYP2C9 Indeterminate,none
+*35/*70,,CYP2C9 Indeterminate,none
+*35/*71,,CYP2C9 Indeterminate,none
+*35/*72,,CYP2C9 Indeterminate,none
+*35/*73,,CYP2C9 Indeterminate,none
+*35/*74,,CYP2C9 Indeterminate,none
+*35/*75,,CYP2C9 Indeterminate,none
+*36/*36,,CYP2C9 Indeterminate,none
+*36/*37,,CYP2C9 Indeterminate,none
+*36/*38,,CYP2C9 Indeterminate,none
+*36/*39,,CYP2C9 Indeterminate,none
+*36/*40,,CYP2C9 Indeterminate,none
+*36/*41,,CYP2C9 Indeterminate,none
+*36/*42,,CYP2C9 Indeterminate,none
+*36/*43,,CYP2C9 Indeterminate,none
+*36/*44,,CYP2C9 Indeterminate,none
+*36/*45,,CYP2C9 Indeterminate,none
+*36/*46,,CYP2C9 Indeterminate,none
+*36/*47,,CYP2C9 Indeterminate,none
+*36/*48,,CYP2C9 Indeterminate,none
+*36/*49,,CYP2C9 Indeterminate,none
+*36/*50,,CYP2C9 Indeterminate,none
+*36/*51,,CYP2C9 Indeterminate,none
+*36/*52,,CYP2C9 Indeterminate,none
+*36/*53,,CYP2C9 Indeterminate,none
+*36/*54,,CYP2C9 Indeterminate,none
+*36/*55,,CYP2C9 Indeterminate,none
+*36/*56,,CYP2C9 Indeterminate,none
+*36/*57,,CYP2C9 Indeterminate,none
+*36/*58,,CYP2C9 Indeterminate,none
+*36/*59,,CYP2C9 Indeterminate,none
+*36/*60,,CYP2C9 Indeterminate,none
+*36/*61,,CYP2C9 Indeterminate,none
+*36/*62,,CYP2C9 Indeterminate,none
+*36/*63,,CYP2C9 Indeterminate,none
+*36/*64,,CYP2C9 Indeterminate,none
+*36/*65,,CYP2C9 Indeterminate,none
+*36/*66,,CYP2C9 Indeterminate,none
+*36/*67,,CYP2C9 Indeterminate,none
+*36/*68,,CYP2C9 Indeterminate,none
+*36/*69,,CYP2C9 Indeterminate,none
+*36/*70,,CYP2C9 Indeterminate,none
+*36/*71,,CYP2C9 Indeterminate,none
+*36/*72,,CYP2C9 Indeterminate,none
+*36/*73,,CYP2C9 Indeterminate,none
+*36/*74,,CYP2C9 Indeterminate,none
+*36/*75,,CYP2C9 Indeterminate,none
+*37/*37,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*37/*38,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*37/*39,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*37/*40,,CYP2C9 Indeterminate,none
+*37/*41,,CYP2C9 Indeterminate,none
+*37/*42,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*37/*43,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*37/*44,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*37/*45,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*37/*46,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*37/*47,,CYP2C9 Indeterminate,none
+*37/*48,,CYP2C9 Indeterminate,none
+*37/*49,,CYP2C9 Indeterminate,none
+*37/*50,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*37/*51,,CYP2C9 Indeterminate,none
+*37/*52,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*37/*53,,CYP2C9 Indeterminate,none
+*37/*54,,CYP2C9 Indeterminate,none
+*37/*55,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*37/*56,,CYP2C9 Indeterminate,none
+*37/*57,,CYP2C9 Indeterminate,none
+*37/*58,,CYP2C9 Indeterminate,none
+*37/*59,,CYP2C9 Indeterminate,none
+*37/*60,,CYP2C9 Indeterminate,none
+*37/*61,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*37/*62,,CYP2C9 Indeterminate,none
+*37/*63,,CYP2C9 Indeterminate,none
+*37/*64,,CYP2C9 Indeterminate,none
+*37/*65,,CYP2C9 Indeterminate,none
+*37/*66,,CYP2C9 Indeterminate,none
+*37/*67,,CYP2C9 Indeterminate,none
+*37/*68,,CYP2C9 Indeterminate,none
+*37/*69,,CYP2C9 Indeterminate,none
+*37/*70,,CYP2C9 Indeterminate,none
+*37/*71,,CYP2C9 Indeterminate,none
+*37/*72,,CYP2C9 Indeterminate,none
+*37/*73,,CYP2C9 Indeterminate,none
+*37/*74,,CYP2C9 Indeterminate,none
+*37/*75,,CYP2C9 Indeterminate,none
+*38/*38,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*38/*39,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*38/*40,,CYP2C9 Indeterminate,none
+*38/*41,,CYP2C9 Indeterminate,none
+*38/*42,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*38/*43,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*38/*44,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*38/*45,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*38/*46,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*38/*47,,CYP2C9 Indeterminate,none
+*38/*48,,CYP2C9 Indeterminate,none
+*38/*49,,CYP2C9 Indeterminate,none
+*38/*50,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*38/*51,,CYP2C9 Indeterminate,none
+*38/*52,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*38/*53,,CYP2C9 Indeterminate,none
+*38/*54,,CYP2C9 Indeterminate,none
+*38/*55,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*38/*56,,CYP2C9 Indeterminate,none
+*38/*57,,CYP2C9 Indeterminate,none
+*38/*58,,CYP2C9 Indeterminate,none
+*38/*59,,CYP2C9 Indeterminate,none
+*38/*60,,CYP2C9 Indeterminate,none
+*38/*61,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*38/*62,,CYP2C9 Indeterminate,none
+*38/*63,,CYP2C9 Indeterminate,none
+*38/*64,,CYP2C9 Indeterminate,none
+*38/*65,,CYP2C9 Indeterminate,none
+*38/*66,,CYP2C9 Indeterminate,none
+*38/*67,,CYP2C9 Indeterminate,none
+*38/*68,,CYP2C9 Indeterminate,none
+*38/*69,,CYP2C9 Indeterminate,none
+*38/*70,,CYP2C9 Indeterminate,none
+*38/*71,,CYP2C9 Indeterminate,none
+*38/*72,,CYP2C9 Indeterminate,none
+*38/*73,,CYP2C9 Indeterminate,none
+*38/*74,,CYP2C9 Indeterminate,none
+*38/*75,,CYP2C9 Indeterminate,none
+*39/*39,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*39/*40,,CYP2C9 Indeterminate,none
+*39/*41,,CYP2C9 Indeterminate,none
+*39/*42,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*39/*43,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*39/*44,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*39/*45,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*39/*46,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*39/*47,,CYP2C9 Indeterminate,none
+*39/*48,,CYP2C9 Indeterminate,none
+*39/*49,,CYP2C9 Indeterminate,none
+*39/*50,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*39/*51,,CYP2C9 Indeterminate,none
+*39/*52,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*39/*53,,CYP2C9 Indeterminate,none
+*39/*54,,CYP2C9 Indeterminate,none
+*39/*55,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*39/*56,,CYP2C9 Indeterminate,none
+*39/*57,,CYP2C9 Indeterminate,none
+*39/*58,,CYP2C9 Indeterminate,none
+*39/*59,,CYP2C9 Indeterminate,none
+*39/*60,,CYP2C9 Indeterminate,none
+*39/*61,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*39/*62,,CYP2C9 Indeterminate,none
+*39/*63,,CYP2C9 Indeterminate,none
+*39/*64,,CYP2C9 Indeterminate,none
+*39/*65,,CYP2C9 Indeterminate,none
+*39/*66,,CYP2C9 Indeterminate,none
+*39/*67,,CYP2C9 Indeterminate,none
+*39/*68,,CYP2C9 Indeterminate,none
+*39/*69,,CYP2C9 Indeterminate,none
+*39/*70,,CYP2C9 Indeterminate,none
+*39/*71,,CYP2C9 Indeterminate,none
+*39/*72,,CYP2C9 Indeterminate,none
+*39/*73,,CYP2C9 Indeterminate,none
+*39/*74,,CYP2C9 Indeterminate,none
+*39/*75,,CYP2C9 Indeterminate,none
+*40/*40,,CYP2C9 Indeterminate,none
+*40/*41,,CYP2C9 Indeterminate,none
+*40/*42,,CYP2C9 Indeterminate,none
+*40/*43,,CYP2C9 Indeterminate,none
+*40/*44,,CYP2C9 Indeterminate,none
+*40/*45,,CYP2C9 Indeterminate,none
+*40/*46,,CYP2C9 Indeterminate,none
+*40/*47,,CYP2C9 Indeterminate,none
+*40/*48,,CYP2C9 Indeterminate,none
+*40/*49,,CYP2C9 Indeterminate,none
+*40/*50,,CYP2C9 Indeterminate,none
+*40/*51,,CYP2C9 Indeterminate,none
+*40/*52,,CYP2C9 Indeterminate,none
+*40/*53,,CYP2C9 Indeterminate,none
+*40/*54,,CYP2C9 Indeterminate,none
+*40/*55,,CYP2C9 Indeterminate,none
+*40/*56,,CYP2C9 Indeterminate,none
+*40/*57,,CYP2C9 Indeterminate,none
+*40/*58,,CYP2C9 Indeterminate,none
+*40/*59,,CYP2C9 Indeterminate,none
+*40/*60,,CYP2C9 Indeterminate,none
+*40/*61,,CYP2C9 Indeterminate,none
+*40/*62,,CYP2C9 Indeterminate,none
+*40/*63,,CYP2C9 Indeterminate,none
+*40/*64,,CYP2C9 Indeterminate,none
+*40/*65,,CYP2C9 Indeterminate,none
+*40/*66,,CYP2C9 Indeterminate,none
+*40/*67,,CYP2C9 Indeterminate,none
+*40/*68,,CYP2C9 Indeterminate,none
+*40/*69,,CYP2C9 Indeterminate,none
+*40/*70,,CYP2C9 Indeterminate,none
+*40/*71,,CYP2C9 Indeterminate,none
+*40/*72,,CYP2C9 Indeterminate,none
+*40/*73,,CYP2C9 Indeterminate,none
+*40/*74,,CYP2C9 Indeterminate,none
+*40/*75,,CYP2C9 Indeterminate,none
+*41/*41,,CYP2C9 Indeterminate,none
+*41/*42,,CYP2C9 Indeterminate,none
+*41/*43,,CYP2C9 Indeterminate,none
+*41/*44,,CYP2C9 Indeterminate,none
+*41/*45,,CYP2C9 Indeterminate,none
+*41/*46,,CYP2C9 Indeterminate,none
+*41/*47,,CYP2C9 Indeterminate,none
+*41/*48,,CYP2C9 Indeterminate,none
+*41/*49,,CYP2C9 Indeterminate,none
+*41/*50,,CYP2C9 Indeterminate,none
+*41/*51,,CYP2C9 Indeterminate,none
+*41/*52,,CYP2C9 Indeterminate,none
+*41/*53,,CYP2C9 Indeterminate,none
+*41/*54,,CYP2C9 Indeterminate,none
+*41/*55,,CYP2C9 Indeterminate,none
+*41/*56,,CYP2C9 Indeterminate,none
+*41/*57,,CYP2C9 Indeterminate,none
+*41/*58,,CYP2C9 Indeterminate,none
+*41/*59,,CYP2C9 Indeterminate,none
+*41/*60,,CYP2C9 Indeterminate,none
+*41/*61,,CYP2C9 Indeterminate,none
+*41/*62,,CYP2C9 Indeterminate,none
+*41/*63,,CYP2C9 Indeterminate,none
+*41/*64,,CYP2C9 Indeterminate,none
+*41/*65,,CYP2C9 Indeterminate,none
+*41/*66,,CYP2C9 Indeterminate,none
+*41/*67,,CYP2C9 Indeterminate,none
+*41/*68,,CYP2C9 Indeterminate,none
+*41/*69,,CYP2C9 Indeterminate,none
+*41/*70,,CYP2C9 Indeterminate,none
+*41/*71,,CYP2C9 Indeterminate,none
+*41/*72,,CYP2C9 Indeterminate,none
+*41/*73,,CYP2C9 Indeterminate,none
+*41/*74,,CYP2C9 Indeterminate,none
+*41/*75,,CYP2C9 Indeterminate,none
+*42/*42,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*42/*43,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*42/*44,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*42/*45,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*42/*46,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*42/*47,,CYP2C9 Indeterminate,none
+*42/*48,,CYP2C9 Indeterminate,none
+*42/*49,,CYP2C9 Indeterminate,none
+*42/*50,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*42/*51,,CYP2C9 Indeterminate,none
+*42/*52,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*42/*53,,CYP2C9 Indeterminate,none
+*42/*54,,CYP2C9 Indeterminate,none
+*42/*55,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*42/*56,,CYP2C9 Indeterminate,none
+*42/*57,,CYP2C9 Indeterminate,none
+*42/*58,,CYP2C9 Indeterminate,none
+*42/*59,,CYP2C9 Indeterminate,none
+*42/*60,,CYP2C9 Indeterminate,none
+*42/*61,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*42/*62,,CYP2C9 Indeterminate,none
+*42/*63,,CYP2C9 Indeterminate,none
+*42/*64,,CYP2C9 Indeterminate,none
+*42/*65,,CYP2C9 Indeterminate,none
+*42/*66,,CYP2C9 Indeterminate,none
+*42/*67,,CYP2C9 Indeterminate,none
+*42/*68,,CYP2C9 Indeterminate,none
+*42/*69,,CYP2C9 Indeterminate,none
+*42/*70,,CYP2C9 Indeterminate,none
+*42/*71,,CYP2C9 Indeterminate,none
+*42/*72,,CYP2C9 Indeterminate,none
+*42/*73,,CYP2C9 Indeterminate,none
+*42/*74,,CYP2C9 Indeterminate,none
+*42/*75,,CYP2C9 Indeterminate,none
+*43/*43,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*43/*44,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*43/*45,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*43/*46,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*43/*47,,CYP2C9 Indeterminate,none
+*43/*48,,CYP2C9 Indeterminate,none
+*43/*49,,CYP2C9 Indeterminate,none
+*43/*50,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*43/*51,,CYP2C9 Indeterminate,none
+*43/*52,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*43/*53,,CYP2C9 Indeterminate,none
+*43/*54,,CYP2C9 Indeterminate,none
+*43/*55,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*43/*56,,CYP2C9 Indeterminate,none
+*43/*57,,CYP2C9 Indeterminate,none
+*43/*58,,CYP2C9 Indeterminate,none
+*43/*59,,CYP2C9 Indeterminate,none
+*43/*60,,CYP2C9 Indeterminate,none
+*43/*61,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*43/*62,,CYP2C9 Indeterminate,none
+*43/*63,,CYP2C9 Indeterminate,none
+*43/*64,,CYP2C9 Indeterminate,none
+*43/*65,,CYP2C9 Indeterminate,none
+*43/*66,,CYP2C9 Indeterminate,none
+*43/*67,,CYP2C9 Indeterminate,none
+*43/*68,,CYP2C9 Indeterminate,none
+*43/*69,,CYP2C9 Indeterminate,none
+*43/*70,,CYP2C9 Indeterminate,none
+*43/*71,,CYP2C9 Indeterminate,none
+*43/*72,,CYP2C9 Indeterminate,none
+*43/*73,,CYP2C9 Indeterminate,none
+*43/*74,,CYP2C9 Indeterminate,none
+*43/*75,,CYP2C9 Indeterminate,none
+*44/*44,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*44/*45,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*44/*46,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*44/*47,,CYP2C9 Indeterminate,none
+*44/*48,,CYP2C9 Indeterminate,none
+*44/*49,,CYP2C9 Indeterminate,none
+*44/*50,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*44/*51,,CYP2C9 Indeterminate,none
+*44/*52,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*44/*53,,CYP2C9 Indeterminate,none
+*44/*54,,CYP2C9 Indeterminate,none
+*44/*55,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*44/*56,,CYP2C9 Indeterminate,none
+*44/*57,,CYP2C9 Indeterminate,none
+*44/*58,,CYP2C9 Indeterminate,none
+*44/*59,,CYP2C9 Indeterminate,none
+*44/*60,,CYP2C9 Indeterminate,none
+*44/*61,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*44/*62,,CYP2C9 Indeterminate,none
+*44/*63,,CYP2C9 Indeterminate,none
+*44/*64,,CYP2C9 Indeterminate,none
+*44/*65,,CYP2C9 Indeterminate,none
+*44/*66,,CYP2C9 Indeterminate,none
+*44/*67,,CYP2C9 Indeterminate,none
+*44/*68,,CYP2C9 Indeterminate,none
+*44/*69,,CYP2C9 Indeterminate,none
+*44/*70,,CYP2C9 Indeterminate,none
+*44/*71,,CYP2C9 Indeterminate,none
+*44/*72,,CYP2C9 Indeterminate,none
+*44/*73,,CYP2C9 Indeterminate,none
+*44/*74,,CYP2C9 Indeterminate,none
+*44/*75,,CYP2C9 Indeterminate,none
+*45/*45,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*45/*46,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*45/*47,,CYP2C9 Indeterminate,none
+*45/*48,,CYP2C9 Indeterminate,none
+*45/*49,,CYP2C9 Indeterminate,none
+*45/*50,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*45/*51,,CYP2C9 Indeterminate,none
+*45/*52,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*45/*53,,CYP2C9 Indeterminate,none
+*45/*54,,CYP2C9 Indeterminate,none
+*45/*55,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*45/*56,,CYP2C9 Indeterminate,none
+*45/*57,,CYP2C9 Indeterminate,none
+*45/*58,,CYP2C9 Indeterminate,none
+*45/*59,,CYP2C9 Indeterminate,none
+*45/*60,,CYP2C9 Indeterminate,none
+*45/*61,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*45/*62,,CYP2C9 Indeterminate,none
+*45/*63,,CYP2C9 Indeterminate,none
+*45/*64,,CYP2C9 Indeterminate,none
+*45/*65,,CYP2C9 Indeterminate,none
+*45/*66,,CYP2C9 Indeterminate,none
+*45/*67,,CYP2C9 Indeterminate,none
+*45/*68,,CYP2C9 Indeterminate,none
+*45/*69,,CYP2C9 Indeterminate,none
+*45/*70,,CYP2C9 Indeterminate,none
+*45/*71,,CYP2C9 Indeterminate,none
+*45/*72,,CYP2C9 Indeterminate,none
+*45/*73,,CYP2C9 Indeterminate,none
+*45/*74,,CYP2C9 Indeterminate,none
+*45/*75,,CYP2C9 Indeterminate,none
+*46/*46,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*46/*47,,CYP2C9 Indeterminate,none
+*46/*48,,CYP2C9 Indeterminate,none
+*46/*49,,CYP2C9 Indeterminate,none
+*46/*50,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*46/*51,,CYP2C9 Indeterminate,none
+*46/*52,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*46/*53,,CYP2C9 Indeterminate,none
+*46/*54,,CYP2C9 Indeterminate,none
+*46/*55,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*46/*56,,CYP2C9 Indeterminate,none
+*46/*57,,CYP2C9 Indeterminate,none
+*46/*58,,CYP2C9 Indeterminate,none
+*46/*59,,CYP2C9 Indeterminate,none
+*46/*60,,CYP2C9 Indeterminate,none
+*46/*61,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*46/*62,,CYP2C9 Indeterminate,none
+*46/*63,,CYP2C9 Indeterminate,none
+*46/*64,,CYP2C9 Indeterminate,none
+*46/*65,,CYP2C9 Indeterminate,none
+*46/*66,,CYP2C9 Indeterminate,none
+*46/*67,,CYP2C9 Indeterminate,none
+*46/*68,,CYP2C9 Indeterminate,none
+*46/*69,,CYP2C9 Indeterminate,none
+*46/*70,,CYP2C9 Indeterminate,none
+*46/*71,,CYP2C9 Indeterminate,none
+*46/*72,,CYP2C9 Indeterminate,none
+*46/*73,,CYP2C9 Indeterminate,none
+*46/*74,,CYP2C9 Indeterminate,none
+*46/*75,,CYP2C9 Indeterminate,none
+*47/*47,,CYP2C9 Indeterminate,none
+*47/*48,,CYP2C9 Indeterminate,none
+*47/*49,,CYP2C9 Indeterminate,none
+*47/*50,,CYP2C9 Indeterminate,none
+*47/*51,,CYP2C9 Indeterminate,none
+*47/*52,,CYP2C9 Indeterminate,none
+*47/*53,,CYP2C9 Indeterminate,none
+*47/*54,,CYP2C9 Indeterminate,none
+*47/*55,,CYP2C9 Indeterminate,none
+*47/*56,,CYP2C9 Indeterminate,none
+*47/*57,,CYP2C9 Indeterminate,none
+*47/*58,,CYP2C9 Indeterminate,none
+*47/*59,,CYP2C9 Indeterminate,none
+*47/*60,,CYP2C9 Indeterminate,none
+*47/*61,,CYP2C9 Indeterminate,none
+*47/*62,,CYP2C9 Indeterminate,none
+*47/*63,,CYP2C9 Indeterminate,none
+*47/*64,,CYP2C9 Indeterminate,none
+*47/*65,,CYP2C9 Indeterminate,none
+*47/*66,,CYP2C9 Indeterminate,none
+*47/*67,,CYP2C9 Indeterminate,none
+*47/*68,,CYP2C9 Indeterminate,none
+*47/*69,,CYP2C9 Indeterminate,none
+*47/*70,,CYP2C9 Indeterminate,none
+*47/*71,,CYP2C9 Indeterminate,none
+*47/*72,,CYP2C9 Indeterminate,none
+*47/*73,,CYP2C9 Indeterminate,none
+*47/*74,,CYP2C9 Indeterminate,none
+*47/*75,,CYP2C9 Indeterminate,none
+*48/*48,,CYP2C9 Indeterminate,none
+*48/*49,,CYP2C9 Indeterminate,none
+*48/*50,,CYP2C9 Indeterminate,none
+*48/*51,,CYP2C9 Indeterminate,none
+*48/*52,,CYP2C9 Indeterminate,none
+*48/*53,,CYP2C9 Indeterminate,none
+*48/*54,,CYP2C9 Indeterminate,none
+*48/*55,,CYP2C9 Indeterminate,none
+*48/*56,,CYP2C9 Indeterminate,none
+*48/*57,,CYP2C9 Indeterminate,none
+*48/*58,,CYP2C9 Indeterminate,none
+*48/*59,,CYP2C9 Indeterminate,none
+*48/*60,,CYP2C9 Indeterminate,none
+*48/*61,,CYP2C9 Indeterminate,none
+*48/*62,,CYP2C9 Indeterminate,none
+*48/*63,,CYP2C9 Indeterminate,none
+*48/*64,,CYP2C9 Indeterminate,none
+*48/*65,,CYP2C9 Indeterminate,none
+*48/*66,,CYP2C9 Indeterminate,none
+*48/*67,,CYP2C9 Indeterminate,none
+*48/*68,,CYP2C9 Indeterminate,none
+*48/*69,,CYP2C9 Indeterminate,none
+*48/*70,,CYP2C9 Indeterminate,none
+*48/*71,,CYP2C9 Indeterminate,none
+*48/*72,,CYP2C9 Indeterminate,none
+*48/*73,,CYP2C9 Indeterminate,none
+*48/*74,,CYP2C9 Indeterminate,none
+*48/*75,,CYP2C9 Indeterminate,none
+*49/*49,,CYP2C9 Indeterminate,none
+*49/*50,,CYP2C9 Indeterminate,none
+*49/*51,,CYP2C9 Indeterminate,none
+*49/*52,,CYP2C9 Indeterminate,none
+*49/*53,,CYP2C9 Indeterminate,none
+*49/*54,,CYP2C9 Indeterminate,none
+*49/*55,,CYP2C9 Indeterminate,none
+*49/*56,,CYP2C9 Indeterminate,none
+*49/*57,,CYP2C9 Indeterminate,none
+*49/*58,,CYP2C9 Indeterminate,none
+*49/*59,,CYP2C9 Indeterminate,none
+*49/*60,,CYP2C9 Indeterminate,none
+*49/*61,,CYP2C9 Indeterminate,none
+*49/*62,,CYP2C9 Indeterminate,none
+*49/*63,,CYP2C9 Indeterminate,none
+*49/*64,,CYP2C9 Indeterminate,none
+*49/*65,,CYP2C9 Indeterminate,none
+*49/*66,,CYP2C9 Indeterminate,none
+*49/*67,,CYP2C9 Indeterminate,none
+*49/*68,,CYP2C9 Indeterminate,none
+*49/*69,,CYP2C9 Indeterminate,none
+*49/*70,,CYP2C9 Indeterminate,none
+*49/*71,,CYP2C9 Indeterminate,none
+*49/*72,,CYP2C9 Indeterminate,none
+*49/*73,,CYP2C9 Indeterminate,none
+*49/*74,,CYP2C9 Indeterminate,none
+*49/*75,,CYP2C9 Indeterminate,none
+*50/*50,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*50/*51,,CYP2C9 Indeterminate,none
+*50/*52,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*50/*53,,CYP2C9 Indeterminate,none
+*50/*54,,CYP2C9 Indeterminate,none
+*50/*55,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*50/*56,,CYP2C9 Indeterminate,none
+*50/*57,,CYP2C9 Indeterminate,none
+*50/*58,,CYP2C9 Indeterminate,none
+*50/*59,,CYP2C9 Indeterminate,none
+*50/*60,,CYP2C9 Indeterminate,none
+*50/*61,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*50/*62,,CYP2C9 Indeterminate,none
+*50/*63,,CYP2C9 Indeterminate,none
+*50/*64,,CYP2C9 Indeterminate,none
+*50/*65,,CYP2C9 Indeterminate,none
+*50/*66,,CYP2C9 Indeterminate,none
+*50/*67,,CYP2C9 Indeterminate,none
+*50/*68,,CYP2C9 Indeterminate,none
+*50/*69,,CYP2C9 Indeterminate,none
+*50/*70,,CYP2C9 Indeterminate,none
+*50/*71,,CYP2C9 Indeterminate,none
+*50/*72,,CYP2C9 Indeterminate,none
+*50/*73,,CYP2C9 Indeterminate,none
+*50/*74,,CYP2C9 Indeterminate,none
+*50/*75,,CYP2C9 Indeterminate,none
+*51/*51,,CYP2C9 Indeterminate,none
+*51/*52,,CYP2C9 Indeterminate,none
+*51/*53,,CYP2C9 Indeterminate,none
+*51/*54,,CYP2C9 Indeterminate,none
+*51/*55,,CYP2C9 Indeterminate,none
+*51/*56,,CYP2C9 Indeterminate,none
+*51/*57,,CYP2C9 Indeterminate,none
+*51/*58,,CYP2C9 Indeterminate,none
+*51/*59,,CYP2C9 Indeterminate,none
+*51/*60,,CYP2C9 Indeterminate,none
+*51/*61,,CYP2C9 Indeterminate,none
+*51/*62,,CYP2C9 Indeterminate,none
+*51/*63,,CYP2C9 Indeterminate,none
+*51/*64,,CYP2C9 Indeterminate,none
+*51/*65,,CYP2C9 Indeterminate,none
+*51/*66,,CYP2C9 Indeterminate,none
+*51/*67,,CYP2C9 Indeterminate,none
+*51/*68,,CYP2C9 Indeterminate,none
+*51/*69,,CYP2C9 Indeterminate,none
+*51/*70,,CYP2C9 Indeterminate,none
+*51/*71,,CYP2C9 Indeterminate,none
+*51/*72,,CYP2C9 Indeterminate,none
+*51/*73,,CYP2C9 Indeterminate,none
+*51/*74,,CYP2C9 Indeterminate,none
+*51/*75,,CYP2C9 Indeterminate,none
+*52/*52,0.0,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*52/*53,,CYP2C9 Indeterminate,none
+*52/*54,,CYP2C9 Indeterminate,none
+*52/*55,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*52/*56,,CYP2C9 Indeterminate,none
+*52/*57,,CYP2C9 Indeterminate,none
+*52/*58,,CYP2C9 Indeterminate,none
+*52/*59,,CYP2C9 Indeterminate,none
+*52/*60,,CYP2C9 Indeterminate,none
+*52/*61,0.5,CYP2C9 Poor Metabolizer,Abnormal/Priority/High Risk
+*52/*62,,CYP2C9 Indeterminate,none
+*52/*63,,CYP2C9 Indeterminate,none
+*52/*64,,CYP2C9 Indeterminate,none
+*52/*65,,CYP2C9 Indeterminate,none
+*52/*66,,CYP2C9 Indeterminate,none
+*52/*67,,CYP2C9 Indeterminate,none
+*52/*68,,CYP2C9 Indeterminate,none
+*52/*69,,CYP2C9 Indeterminate,none
+*52/*70,,CYP2C9 Indeterminate,none
+*52/*71,,CYP2C9 Indeterminate,none
+*52/*72,,CYP2C9 Indeterminate,none
+*52/*73,,CYP2C9 Indeterminate,none
+*52/*74,,CYP2C9 Indeterminate,none
+*52/*75,,CYP2C9 Indeterminate,none
+*53/*53,,CYP2C9 Indeterminate,none
+*53/*54,,CYP2C9 Indeterminate,none
+*53/*55,,CYP2C9 Indeterminate,none
+*53/*56,,CYP2C9 Indeterminate,none
+*53/*57,,CYP2C9 Indeterminate,none
+*53/*58,,CYP2C9 Indeterminate,none
+*53/*59,,CYP2C9 Indeterminate,none
+*53/*60,,CYP2C9 Indeterminate,none
+*53/*61,,CYP2C9 Indeterminate,none
+*53/*62,,CYP2C9 Indeterminate,none
+*53/*63,,CYP2C9 Indeterminate,none
+*53/*64,,CYP2C9 Indeterminate,none
+*53/*65,,CYP2C9 Indeterminate,none
+*53/*66,,CYP2C9 Indeterminate,none
+*53/*67,,CYP2C9 Indeterminate,none
+*53/*68,,CYP2C9 Indeterminate,none
+*53/*69,,CYP2C9 Indeterminate,none
+*53/*70,,CYP2C9 Indeterminate,none
+*53/*71,,CYP2C9 Indeterminate,none
+*53/*72,,CYP2C9 Indeterminate,none
+*53/*73,,CYP2C9 Indeterminate,none
+*53/*74,,CYP2C9 Indeterminate,none
+*53/*75,,CYP2C9 Indeterminate,none
+*54/*54,,CYP2C9 Indeterminate,none
+*54/*55,,CYP2C9 Indeterminate,none
+*54/*56,,CYP2C9 Indeterminate,none
+*54/*57,,CYP2C9 Indeterminate,none
+*54/*58,,CYP2C9 Indeterminate,none
+*54/*59,,CYP2C9 Indeterminate,none
+*54/*60,,CYP2C9 Indeterminate,none
+*54/*61,,CYP2C9 Indeterminate,none
+*54/*62,,CYP2C9 Indeterminate,none
+*54/*63,,CYP2C9 Indeterminate,none
+*54/*64,,CYP2C9 Indeterminate,none
+*54/*65,,CYP2C9 Indeterminate,none
+*54/*66,,CYP2C9 Indeterminate,none
+*54/*67,,CYP2C9 Indeterminate,none
+*54/*68,,CYP2C9 Indeterminate,none
+*54/*69,,CYP2C9 Indeterminate,none
+*54/*70,,CYP2C9 Indeterminate,none
+*54/*71,,CYP2C9 Indeterminate,none
+*54/*72,,CYP2C9 Indeterminate,none
+*54/*73,,CYP2C9 Indeterminate,none
+*54/*74,,CYP2C9 Indeterminate,none
+*54/*75,,CYP2C9 Indeterminate,none
+*55/*55,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*55/*56,,CYP2C9 Indeterminate,none
+*55/*57,,CYP2C9 Indeterminate,none
+*55/*58,,CYP2C9 Indeterminate,none
+*55/*59,,CYP2C9 Indeterminate,none
+*55/*60,,CYP2C9 Indeterminate,none
+*55/*61,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*55/*62,,CYP2C9 Indeterminate,none
+*55/*63,,CYP2C9 Indeterminate,none
+*55/*64,,CYP2C9 Indeterminate,none
+*55/*65,,CYP2C9 Indeterminate,none
+*55/*66,,CYP2C9 Indeterminate,none
+*55/*67,,CYP2C9 Indeterminate,none
+*55/*68,,CYP2C9 Indeterminate,none
+*55/*69,,CYP2C9 Indeterminate,none
+*55/*70,,CYP2C9 Indeterminate,none
+*55/*71,,CYP2C9 Indeterminate,none
+*55/*72,,CYP2C9 Indeterminate,none
+*55/*73,,CYP2C9 Indeterminate,none
+*55/*74,,CYP2C9 Indeterminate,none
+*55/*75,,CYP2C9 Indeterminate,none
+*56/*56,,CYP2C9 Indeterminate,none
+*56/*57,,CYP2C9 Indeterminate,none
+*56/*58,,CYP2C9 Indeterminate,none
+*56/*59,,CYP2C9 Indeterminate,none
+*56/*60,,CYP2C9 Indeterminate,none
+*56/*61,,CYP2C9 Indeterminate,none
+*56/*62,,CYP2C9 Indeterminate,none
+*56/*63,,CYP2C9 Indeterminate,none
+*56/*64,,CYP2C9 Indeterminate,none
+*56/*65,,CYP2C9 Indeterminate,none
+*56/*66,,CYP2C9 Indeterminate,none
+*56/*67,,CYP2C9 Indeterminate,none
+*56/*68,,CYP2C9 Indeterminate,none
+*56/*69,,CYP2C9 Indeterminate,none
+*56/*70,,CYP2C9 Indeterminate,none
+*56/*71,,CYP2C9 Indeterminate,none
+*56/*72,,CYP2C9 Indeterminate,none
+*56/*73,,CYP2C9 Indeterminate,none
+*56/*74,,CYP2C9 Indeterminate,none
+*56/*75,,CYP2C9 Indeterminate,none
+*57/*57,,CYP2C9 Indeterminate,none
+*57/*58,,CYP2C9 Indeterminate,none
+*57/*59,,CYP2C9 Indeterminate,none
+*57/*60,,CYP2C9 Indeterminate,none
+*57/*61,,CYP2C9 Indeterminate,none
+*57/*62,,CYP2C9 Indeterminate,none
+*57/*63,,CYP2C9 Indeterminate,none
+*57/*64,,CYP2C9 Indeterminate,none
+*57/*65,,CYP2C9 Indeterminate,none
+*57/*66,,CYP2C9 Indeterminate,none
+*57/*67,,CYP2C9 Indeterminate,none
+*57/*68,,CYP2C9 Indeterminate,none
+*57/*69,,CYP2C9 Indeterminate,none
+*57/*70,,CYP2C9 Indeterminate,none
+*57/*71,,CYP2C9 Indeterminate,none
+*57/*72,,CYP2C9 Indeterminate,none
+*57/*73,,CYP2C9 Indeterminate,none
+*57/*74,,CYP2C9 Indeterminate,none
+*57/*75,,CYP2C9 Indeterminate,none
+*58/*58,,CYP2C9 Indeterminate,none
+*58/*59,,CYP2C9 Indeterminate,none
+*58/*60,,CYP2C9 Indeterminate,none
+*58/*61,,CYP2C9 Indeterminate,none
+*58/*62,,CYP2C9 Indeterminate,none
+*58/*63,,CYP2C9 Indeterminate,none
+*58/*64,,CYP2C9 Indeterminate,none
+*58/*65,,CYP2C9 Indeterminate,none
+*58/*66,,CYP2C9 Indeterminate,none
+*58/*67,,CYP2C9 Indeterminate,none
+*58/*68,,CYP2C9 Indeterminate,none
+*58/*69,,CYP2C9 Indeterminate,none
+*58/*70,,CYP2C9 Indeterminate,none
+*58/*71,,CYP2C9 Indeterminate,none
+*58/*72,,CYP2C9 Indeterminate,none
+*58/*73,,CYP2C9 Indeterminate,none
+*58/*74,,CYP2C9 Indeterminate,none
+*58/*75,,CYP2C9 Indeterminate,none
+*59/*59,,CYP2C9 Indeterminate,none
+*59/*60,,CYP2C9 Indeterminate,none
+*59/*61,,CYP2C9 Indeterminate,none
+*59/*62,,CYP2C9 Indeterminate,none
+*59/*63,,CYP2C9 Indeterminate,none
+*59/*64,,CYP2C9 Indeterminate,none
+*59/*65,,CYP2C9 Indeterminate,none
+*59/*66,,CYP2C9 Indeterminate,none
+*59/*67,,CYP2C9 Indeterminate,none
+*59/*68,,CYP2C9 Indeterminate,none
+*59/*69,,CYP2C9 Indeterminate,none
+*59/*70,,CYP2C9 Indeterminate,none
+*59/*71,,CYP2C9 Indeterminate,none
+*59/*72,,CYP2C9 Indeterminate,none
+*59/*73,,CYP2C9 Indeterminate,none
+*59/*74,,CYP2C9 Indeterminate,none
+*59/*75,,CYP2C9 Indeterminate,none
+*60/*60,,CYP2C9 Indeterminate,none
+*60/*61,,CYP2C9 Indeterminate,none
+*60/*62,,CYP2C9 Indeterminate,none
+*60/*63,,CYP2C9 Indeterminate,none
+*60/*64,,CYP2C9 Indeterminate,none
+*60/*65,,CYP2C9 Indeterminate,none
+*60/*66,,CYP2C9 Indeterminate,none
+*60/*67,,CYP2C9 Indeterminate,none
+*60/*68,,CYP2C9 Indeterminate,none
+*60/*69,,CYP2C9 Indeterminate,none
+*60/*70,,CYP2C9 Indeterminate,none
+*60/*71,,CYP2C9 Indeterminate,none
+*60/*72,,CYP2C9 Indeterminate,none
+*60/*73,,CYP2C9 Indeterminate,none
+*60/*74,,CYP2C9 Indeterminate,none
+*60/*75,,CYP2C9 Indeterminate,none
+*61/*61,1.0,CYP2C9 Intermediate Metabolizer,Abnormal/Priority/High Risk
+*61/*62,,CYP2C9 Indeterminate,none
+*61/*63,,CYP2C9 Indeterminate,none
+*61/*64,,CYP2C9 Indeterminate,none
+*61/*65,,CYP2C9 Indeterminate,none
+*61/*66,,CYP2C9 Indeterminate,none
+*61/*67,,CYP2C9 Indeterminate,none
+*61/*68,,CYP2C9 Indeterminate,none
+*61/*69,,CYP2C9 Indeterminate,none
+*61/*70,,CYP2C9 Indeterminate,none
+*61/*71,,CYP2C9 Indeterminate,none
+*61/*72,,CYP2C9 Indeterminate,none
+*61/*73,,CYP2C9 Indeterminate,none
+*61/*74,,CYP2C9 Indeterminate,none
+*61/*75,,CYP2C9 Indeterminate,none
+*62/*62,,CYP2C9 Indeterminate,none
+*62/*63,,CYP2C9 Indeterminate,none
+*62/*64,,CYP2C9 Indeterminate,none
+*62/*65,,CYP2C9 Indeterminate,none
+*62/*66,,CYP2C9 Indeterminate,none
+*62/*67,,CYP2C9 Indeterminate,none
+*62/*68,,CYP2C9 Indeterminate,none
+*62/*69,,CYP2C9 Indeterminate,none
+*62/*70,,CYP2C9 Indeterminate,none
+*62/*71,,CYP2C9 Indeterminate,none
+*62/*72,,CYP2C9 Indeterminate,none
+*62/*73,,CYP2C9 Indeterminate,none
+*62/*74,,CYP2C9 Indeterminate,none
+*62/*75,,CYP2C9 Indeterminate,none
+*63/*63,,CYP2C9 Indeterminate,none
+*63/*64,,CYP2C9 Indeterminate,none
+*63/*65,,CYP2C9 Indeterminate,none
+*63/*66,,CYP2C9 Indeterminate,none
+*63/*67,,CYP2C9 Indeterminate,none
+*63/*68,,CYP2C9 Indeterminate,none
+*63/*69,,CYP2C9 Indeterminate,none
+*63/*70,,CYP2C9 Indeterminate,none
+*63/*71,,CYP2C9 Indeterminate,none
+*63/*72,,CYP2C9 Indeterminate,none
+*63/*73,,CYP2C9 Indeterminate,none
+*63/*74,,CYP2C9 Indeterminate,none
+*63/*75,,CYP2C9 Indeterminate,none
+*64/*64,,CYP2C9 Indeterminate,none
+*64/*65,,CYP2C9 Indeterminate,none
+*64/*66,,CYP2C9 Indeterminate,none
+*64/*67,,CYP2C9 Indeterminate,none
+*64/*68,,CYP2C9 Indeterminate,none
+*64/*69,,CYP2C9 Indeterminate,none
+*64/*70,,CYP2C9 Indeterminate,none
+*64/*71,,CYP2C9 Indeterminate,none
+*64/*72,,CYP2C9 Indeterminate,none
+*64/*73,,CYP2C9 Indeterminate,none
+*64/*74,,CYP2C9 Indeterminate,none
+*64/*75,,CYP2C9 Indeterminate,none
+*65/*65,,CYP2C9 Indeterminate,none
+*65/*66,,CYP2C9 Indeterminate,none
+*65/*67,,CYP2C9 Indeterminate,none
+*65/*68,,CYP2C9 Indeterminate,none
+*65/*69,,CYP2C9 Indeterminate,none
+*65/*70,,CYP2C9 Indeterminate,none
+*65/*71,,CYP2C9 Indeterminate,none
+*65/*72,,CYP2C9 Indeterminate,none
+*65/*73,,CYP2C9 Indeterminate,none
+*65/*74,,CYP2C9 Indeterminate,none
+*65/*75,,CYP2C9 Indeterminate,none
+*66/*66,,CYP2C9 Indeterminate,none
+*66/*67,,CYP2C9 Indeterminate,none
+*66/*68,,CYP2C9 Indeterminate,none
+*66/*69,,CYP2C9 Indeterminate,none
+*66/*70,,CYP2C9 Indeterminate,none
+*66/*71,,CYP2C9 Indeterminate,none
+*66/*72,,CYP2C9 Indeterminate,none
+*66/*73,,CYP2C9 Indeterminate,none
+*66/*74,,CYP2C9 Indeterminate,none
+*66/*75,,CYP2C9 Indeterminate,none
+*67/*67,,CYP2C9 Indeterminate,none
+*67/*68,,CYP2C9 Indeterminate,none
+*67/*69,,CYP2C9 Indeterminate,none
+*67/*70,,CYP2C9 Indeterminate,none
+*67/*71,,CYP2C9 Indeterminate,none
+*67/*72,,CYP2C9 Indeterminate,none
+*67/*73,,CYP2C9 Indeterminate,none
+*67/*74,,CYP2C9 Indeterminate,none
+*67/*75,,CYP2C9 Indeterminate,none
+*68/*68,,CYP2C9 Indeterminate,none
+*68/*69,,CYP2C9 Indeterminate,none
+*68/*70,,CYP2C9 Indeterminate,none
+*68/*71,,CYP2C9 Indeterminate,none
+*68/*72,,CYP2C9 Indeterminate,none
+*68/*73,,CYP2C9 Indeterminate,none
+*68/*74,,CYP2C9 Indeterminate,none
+*68/*75,,CYP2C9 Indeterminate,none
+*69/*69,,CYP2C9 Indeterminate,none
+*69/*70,,CYP2C9 Indeterminate,none
+*69/*71,,CYP2C9 Indeterminate,none
+*69/*72,,CYP2C9 Indeterminate,none
+*69/*73,,CYP2C9 Indeterminate,none
+*69/*74,,CYP2C9 Indeterminate,none
+*69/*75,,CYP2C9 Indeterminate,none
+*70/*70,,CYP2C9 Indeterminate,none
+*70/*71,,CYP2C9 Indeterminate,none
+*70/*72,,CYP2C9 Indeterminate,none
+*70/*73,,CYP2C9 Indeterminate,none
+*70/*74,,CYP2C9 Indeterminate,none
+*70/*75,,CYP2C9 Indeterminate,none
+*71/*71,,CYP2C9 Indeterminate,none
+*71/*72,,CYP2C9 Indeterminate,none
+*71/*73,,CYP2C9 Indeterminate,none
+*71/*74,,CYP2C9 Indeterminate,none
+*71/*75,,CYP2C9 Indeterminate,none
+*72/*72,,CYP2C9 Indeterminate,none
+*72/*73,,CYP2C9 Indeterminate,none
+*72/*74,,CYP2C9 Indeterminate,none
+*72/*75,,CYP2C9 Indeterminate,none
+*73/*73,,CYP2C9 Indeterminate,none
+*73/*74,,CYP2C9 Indeterminate,none
+*73/*75,,CYP2C9 Indeterminate,none
+*74/*74,,CYP2C9 Indeterminate,none
+*74/*75,,CYP2C9 Indeterminate,none
+*75/*75,,CYP2C9 Indeterminate,none

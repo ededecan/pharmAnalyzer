@@ -31,29 +31,26 @@ wheels/
 *~
 .DS_Store
 
-# Exclude all data directories and files
+# Exclude directories
 /data/
 /backups/
-/pharmgkb/
 /test/
 /original-scripts/
-/source-allele-*/
-/source-diplotype-phenotype/
 /examples/
+
+# Exclude to-do files
 to-do.txt
 to-do-code.txt
 
-# Exclude large data files
-*.xml
-*.bak
-*.json
-*.tsv
-*.csv
-*.pdf
+# Exclude large database files
+full-drug-database.xml
 
-# Test outputs
+# Exclude temporary and backup files
+*.bak
 test_complete.log
 *.log
+pharmacogenomics_updated.json.bak
+realistic_data_report.*
 
 # Virtual environments
 .env

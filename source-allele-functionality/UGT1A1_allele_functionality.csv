@@ -1,0 +1,10 @@
+Allele/cDNA/rsID,Activity Value (Optional),Allele Biochemical Functional Status (Optional),Allele Clinical Functional Status (Required),Allele Clinical Function Substrate Specificity (Optional),References (Required),Strength of Evidence (Required),Summary of Findings (Required),Comments
+*1,,,Normal function,,"7565971, 9653159, 15179405",,15179405: SNS-38 (in vivo) - based on protein quantification,
+*6,,,Decreased function,,"7715297, 8280139, 15179405, 11906189",,15179405: SNS-38 (in vivo) - based on protein quantification; 11906189: bilirubin (in vivo) - based on protein quantification,
+*27,,,Decreased function,,"7565971, 7715297, 15179405",,7715297: bilirubin (in vivo) - based on protein quantification; 15179405: SNS-38 (in vivo) - based on protein quantification,
+*28,,,Decreased function,,"9653159, 15179405",,15179405: SNS-38 (in vivo) - based on protein quantification,
+*36,,,Increased function,,9653159,,,
+*37,,,Decreased function,,9653159,,,
+*80,,,Unknown function,,,,,"UGT1A1*80 is in very high linkage disequilibrium with *28 and *37. However, the function of the *80 allele alone, in the absence of *28 or *37, is uncertain. If a patient is only tested for *80, decreased function may be inferred."
+*80+*28,,,Decreased function,,"21309756, 19414484, 22085899, 19419973",,,"UGT1A1*80 is in very high linkage disequilibrium with *28 and *37. However, the function of the *80 allele alone, in the absence of *28 or *37, is uncertain. If a patient is only tested for *80, decreased function may be inferred."
+*80+*37,,,Decreased function,,"21309756, 19414484, 22085899, 19419973",,,"UGT1A1*80 is in very high linkage disequilibrium with *28 and *37. However, the function of the *80 allele alone, in the absence of *28 or *37, is uncertain. If a patient is only tested for *80, decreased function may be inferred."

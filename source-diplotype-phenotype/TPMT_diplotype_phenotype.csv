@@ -1,0 +1,947 @@
+TPMT Diplotype,Activity Score,Coded Diplotype/Phenotype Summary,EHR Priority Notation
+*1/*1,,TPMT Normal Metabolizer,Normal/Routine/Low Risk
+*1/*2,,TPMT Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*3A,,TPMT Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*3B,,TPMT Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*3C,,TPMT Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*4,,TPMT Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*5,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*6,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*7,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*8,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*9,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*10,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*11,,TPMT Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*12,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*13,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*14,,TPMT Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*15,,TPMT Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*16,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*17,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*18,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*19,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*20,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*21,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*22,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*23,,TPMT Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*24,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*25,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*26,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*27,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*28,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*29,,TPMT Intermediate Metabolizer,Abnormal/Priority/High Risk
+*1/*30,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*31,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*32,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*33,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*34,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*35,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*36,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*1/*41,,TPMT Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*2,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*2/*3A,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*2/*3B,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*2/*3C,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*2/*4,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*2/*5,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*6,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*7,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*8,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*9,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*10,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*11,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*2/*12,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*13,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*14,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*2/*15,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*2/*16,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*17,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*18,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*19,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*20,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*21,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*22,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*23,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*2/*24,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*25,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*26,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*27,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*28,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*29,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*2/*30,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*31,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*32,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*33,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*34,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*35,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*36,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*37,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*38,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*39,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*40,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*2/*41,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*3A/*3A,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*3A/*3B,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*3A/*3C,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*3A/*4,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*3A/*5,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*6,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*7,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*8,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*9,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*10,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*11,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*3A/*12,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*13,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*14,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*3A/*15,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*3A/*16,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*17,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*18,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*19,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*20,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*21,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*22,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*23,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*3A/*24,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*25,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*26,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*27,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*28,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*29,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*3A/*30,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*31,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*32,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*33,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*34,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*35,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*36,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*37,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*38,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*39,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*40,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3A/*41,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*3B/*3B,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*3B/*3C,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*3B/*4,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*3B/*5,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*6,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*7,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*8,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*9,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*10,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*11,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*3B/*12,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*13,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*14,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*3B/*15,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*3B/*16,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*17,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*18,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*19,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*20,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*21,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*22,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*23,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*3B/*24,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*25,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*26,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*27,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*28,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*29,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*3B/*30,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*31,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*32,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*33,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*34,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*35,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*36,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*37,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*38,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*39,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*40,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3B/*41,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*3C/*3C,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*3C/*4,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*3C/*5,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*6,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*7,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*8,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*9,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*10,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*11,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*3C/*12,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*13,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*14,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*3C/*15,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*3C/*16,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*17,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*18,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*19,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*20,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*21,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*22,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*23,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*3C/*24,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*25,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*26,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*27,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*28,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*29,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*3C/*30,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*31,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*32,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*33,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*34,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*35,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*36,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*37,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*38,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*39,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*40,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*3C/*41,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*4/*4,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*4/*5,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*6,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*7,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*8,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*9,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*10,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*11,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*4/*12,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*13,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*14,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*4/*15,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*4/*16,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*17,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*18,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*19,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*20,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*21,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*22,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*23,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*4/*24,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*25,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*26,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*27,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*28,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*29,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*4/*30,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*31,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*32,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*33,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*34,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*35,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*36,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*37,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*38,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*39,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*40,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*4/*41,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*5/*5,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*6,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*7,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*8,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*9,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*10,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*11,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*5/*12,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*13,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*14,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*5/*15,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*5/*16,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*17,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*18,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*19,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*20,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*21,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*22,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*23,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*5/*24,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*25,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*26,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*27,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*28,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*29,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*5/*30,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*31,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*32,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*33,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*34,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*35,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*36,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*5/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*6/*6,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*7,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*8,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*9,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*10,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*11,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*6/*12,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*13,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*14,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*6/*15,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*6/*16,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*17,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*18,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*19,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*20,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*21,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*22,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*23,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*6/*24,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*25,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*26,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*27,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*28,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*29,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*6/*30,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*31,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*32,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*33,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*34,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*35,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*36,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*6/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*7/*7,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*8,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*9,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*10,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*11,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*7/*12,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*13,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*14,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*7/*15,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*7/*16,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*17,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*18,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*19,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*20,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*21,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*22,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*23,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*7/*24,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*25,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*26,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*27,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*28,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*29,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*7/*30,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*31,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*32,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*33,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*34,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*35,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*36,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*7/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*8/*8,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*8/*9,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*8/*10,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*8/*11,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*8/*12,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*8/*13,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*8/*14,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*8/*15,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*8/*16,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*8/*17,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*8/*18,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*8/*19,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*8/*20,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*8/*21,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*8/*22,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*8/*23,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*8/*24,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*8/*25,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*8/*26,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*8/*27,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*8/*28,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*8/*29,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*8/*30,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*8/*31,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*8/*32,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*8/*33,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*8/*34,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*8/*35,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*8/*36,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*8/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*8/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*8/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*8/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*8/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*9,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*9/*10,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*9/*11,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*12,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*9/*13,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*9/*14,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*15,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*16,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*9/*17,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*9/*18,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*9/*19,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*9/*20,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*9/*21,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*9/*22,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*9/*23,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*24,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*9/*25,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*9/*26,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*9/*27,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*9/*28,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*9/*29,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*9/*30,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*9/*31,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*9/*32,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*9/*33,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*9/*34,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*9/*35,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*9/*36,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*9/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*9/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*9/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*9/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*9/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*10/*10,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*10/*11,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*10/*12,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*10/*13,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*10/*14,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*10/*15,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*10/*16,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*10/*17,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*10/*18,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*10/*19,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*10/*20,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*10/*21,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*10/*22,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*10/*23,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*10/*24,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*10/*25,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*10/*26,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*10/*27,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*10/*28,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*10/*29,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*10/*30,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*10/*31,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*10/*32,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*10/*33,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*10/*34,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*10/*35,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*10/*36,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*10/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*10/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*10/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*10/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*10/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*11,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*11/*12,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*13,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*14,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*11/*15,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*11/*16,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*17,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*18,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*19,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*20,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*21,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*22,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*23,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*11/*24,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*25,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*26,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*27,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*28,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*29,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*11/*30,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*31,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*32,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*33,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*34,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*35,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*36,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*37,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*38,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*39,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*40,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*11/*41,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*12/*12,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*12/*13,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*12/*14,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*12/*15,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*12/*16,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*12/*17,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*12/*18,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*12/*19,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*12/*20,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*12/*21,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*12/*22,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*12/*23,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*12/*24,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*12/*25,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*12/*26,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*12/*27,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*12/*28,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*12/*29,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*12/*30,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*12/*31,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*12/*32,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*12/*33,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*12/*34,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*12/*35,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*12/*36,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*12/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*12/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*12/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*12/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*12/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*13/*13,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*13/*14,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*13/*15,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*13/*16,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*13/*17,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*13/*18,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*13/*19,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*13/*20,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*13/*21,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*13/*22,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*13/*23,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*13/*24,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*13/*25,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*13/*26,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*13/*27,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*13/*28,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*13/*29,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*13/*30,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*13/*31,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*13/*32,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*13/*33,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*13/*34,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*13/*35,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*13/*36,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*13/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*13/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*13/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*13/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*13/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*14,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*14/*15,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*14/*16,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*17,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*18,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*19,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*20,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*21,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*22,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*23,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*14/*24,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*25,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*26,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*27,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*28,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*29,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*14/*30,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*31,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*32,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*33,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*34,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*35,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*36,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*37,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*38,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*39,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*40,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*14/*41,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*15/*15,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*15/*16,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*15/*17,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*15/*18,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*15/*19,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*15/*20,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*15/*21,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*15/*22,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*15/*23,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*15/*24,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*15/*25,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*15/*26,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*15/*27,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*15/*28,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*15/*29,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*15/*30,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*15/*31,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*15/*32,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*15/*33,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*15/*34,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*15/*35,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*15/*36,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*15/*37,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*15/*38,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*15/*39,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*15/*40,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*15/*41,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*16/*16,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*16/*17,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*16/*18,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*16/*19,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*16/*20,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*16/*21,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*16/*22,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*16/*23,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*16/*24,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*16/*25,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*16/*26,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*16/*27,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*16/*28,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*16/*29,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*16/*30,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*16/*31,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*16/*32,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*16/*33,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*16/*34,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*16/*35,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*16/*36,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*16/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*16/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*16/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*16/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*16/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*17/*17,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*17/*18,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*17/*19,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*17/*20,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*17/*21,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*17/*22,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*17/*23,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*17/*24,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*17/*25,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*17/*26,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*17/*27,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*17/*28,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*17/*29,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*17/*30,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*17/*31,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*17/*32,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*17/*33,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*17/*34,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*17/*35,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*17/*36,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*17/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*17/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*17/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*17/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*17/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*18/*18,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*18/*19,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*18/*20,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*18/*21,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*18/*22,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*18/*23,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*18/*24,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*18/*25,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*18/*26,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*18/*27,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*18/*28,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*18/*29,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*18/*30,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*18/*31,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*18/*32,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*18/*33,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*18/*34,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*18/*35,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*18/*36,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*18/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*18/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*18/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*18/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*18/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*19/*19,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*19/*20,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*19/*21,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*19/*22,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*19/*23,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*19/*24,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*19/*25,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*19/*26,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*19/*27,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*19/*28,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*19/*29,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*19/*30,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*19/*31,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*19/*32,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*19/*33,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*19/*34,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*19/*35,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*19/*36,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*19/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*19/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*19/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*19/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*19/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*20/*20,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*20/*21,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*20/*22,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*20/*23,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*20/*24,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*20/*25,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*20/*26,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*20/*27,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*20/*28,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*20/*29,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*20/*30,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*20/*31,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*20/*32,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*20/*33,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*20/*34,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*20/*35,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*20/*36,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*20/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*20/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*20/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*20/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*20/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*21/*21,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*21/*22,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*21/*23,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*21/*24,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*21/*25,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*21/*26,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*21/*27,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*21/*28,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*21/*29,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*21/*30,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*21/*31,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*21/*32,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*21/*33,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*21/*34,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*21/*35,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*21/*36,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*21/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*21/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*21/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*21/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*21/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*22/*22,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*22/*23,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*22/*24,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*22/*25,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*22/*26,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*22/*27,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*22/*28,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*22/*29,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*22/*30,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*22/*31,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*22/*32,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*22/*33,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*22/*34,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*22/*35,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*22/*36,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*22/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*22/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*22/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*22/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*22/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*23,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*23/*24,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*25,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*26,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*27,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*28,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*29,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*23/*30,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*31,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*32,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*33,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*34,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*35,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*36,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*37,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*38,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*39,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*40,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*23/*41,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*24/*24,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*24/*25,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*24/*26,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*24/*27,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*24/*28,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*24/*29,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*24/*30,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*24/*31,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*24/*32,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*24/*33,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*24/*34,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*24/*35,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*24/*36,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*24/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*24/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*24/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*24/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*24/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*25/*25,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*25/*26,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*25/*27,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*25/*28,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*25/*29,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*25/*30,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*25/*31,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*25/*32,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*25/*33,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*25/*34,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*25/*35,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*25/*36,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*25/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*25/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*25/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*25/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*25/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*26/*26,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*26/*27,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*26/*28,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*26/*29,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*26/*30,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*26/*31,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*26/*32,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*26/*33,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*26/*34,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*26/*35,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*26/*36,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*26/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*26/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*26/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*26/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*26/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*27/*27,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*27/*28,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*27/*29,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*27/*30,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*27/*31,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*27/*32,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*27/*33,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*27/*34,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*27/*35,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*27/*36,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*27/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*27/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*27/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*27/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*27/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*28/*28,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*28/*29,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*28/*30,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*28/*31,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*28/*32,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*28/*33,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*28/*34,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*28/*35,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*28/*36,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*28/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*28/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*28/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*28/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*28/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*29/*29,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*29/*30,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*29/*31,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*29/*32,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*29/*33,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*29/*34,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*29/*35,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*29/*36,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*29/*37,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*29/*38,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*29/*39,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*29/*40,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*29/*41,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk
+*30/*30,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*30/*31,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*30/*32,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*30/*33,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*30/*34,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*30/*35,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*30/*36,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*30/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*30/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*30/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*30/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*30/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*31/*31,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*31/*32,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*31/*33,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*31/*34,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*31/*35,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*31/*36,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*31/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*31/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*31/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*31/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*31/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*32/*32,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*32/*33,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*32/*34,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*32/*35,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*32/*36,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*32/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*32/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*32/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*32/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*32/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*33/*33,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*33/*34,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*33/*35,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*33/*36,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*33/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*33/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*33/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*33/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*33/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*34/*34,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*34/*35,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*34/*36,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*34/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*34/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*34/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*34/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*34/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*35/*35,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*35/*36,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*35/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*35/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*35/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*35/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*35/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*36/*36,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*36/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*36/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*36/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*36/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*36/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*37/*37,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*37/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*37/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*37/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*37/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*38/*38,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*38/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*38/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*38/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*39/*39,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*39/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*39/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*40/*40,,TPMT Indeterminate,Abnormal/Priority/High Risk
+*40/*41,,TPMT Possible Intermediate Metabolizer,Abnormal/Priority/High Risk
+*41/*41,,TPMT Poor Metabolizer,Abnormal/Priority/High Risk

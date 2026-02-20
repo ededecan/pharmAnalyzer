@@ -1,0 +1,742 @@
+SLCO1B1 Diplotype,Activity Score,Coded Diplotype/Phenotype Summary,EHR Priority Notation
+*1/*1,,SLCO1B1 Normal Function,Normal/Routine/Low Risk
+*1/*2,,SLCO1B1 Indeterminate,none
+*1/*4,,SLCO1B1 Indeterminate,none
+*1/*5,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*1/*6,,SLCO1B1 Indeterminate,none
+*1/*8,,SLCO1B1 Indeterminate,none
+*1/*9,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*1/*10,,SLCO1B1 Indeterminate,none
+*1/*11,,SLCO1B1 Indeterminate,none
+*1/*14,,SLCO1B1 Normal Function,Normal/Routine/Low Risk
+*1/*15,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*1/*16,,SLCO1B1 Indeterminate,none
+*1/*19,,SLCO1B1 Indeterminate,none
+*1/*20,,SLCO1B1 Normal Function,Normal/Routine/Low Risk
+*1/*23,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*1/*24,,SLCO1B1 Indeterminate,none
+*1/*25,,SLCO1B1 Indeterminate,none
+*1/*26,,SLCO1B1 Indeterminate,none
+*1/*27,,SLCO1B1 Indeterminate,none
+*1/*28,,SLCO1B1 Indeterminate,none
+*1/*29,,SLCO1B1 Indeterminate,none
+*1/*30,,SLCO1B1 Indeterminate,none
+*1/*31,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*1/*32,,SLCO1B1 Indeterminate,none
+*1/*33,,SLCO1B1 Indeterminate,none
+*1/*34,,SLCO1B1 Indeterminate,none
+*1/*36,,SLCO1B1 Indeterminate,none
+*1/*37,,SLCO1B1 Normal Function,Normal/Routine/Low Risk
+*1/*39,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*1/*40,,SLCO1B1 Indeterminate,none
+*1/*41,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*1/*42,,SLCO1B1 Indeterminate,none
+*1/*43,,SLCO1B1 Indeterminate,none
+*1/*44,,SLCO1B1 Indeterminate,none
+*1/*45,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*1/*47,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*1/*48,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*1/*49,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*2/*2,,SLCO1B1 Indeterminate,none
+*2/*4,,SLCO1B1 Indeterminate,none
+*2/*5,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*2/*6,,SLCO1B1 Indeterminate,none
+*2/*8,,SLCO1B1 Indeterminate,none
+*2/*9,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*2/*10,,SLCO1B1 Indeterminate,none
+*2/*11,,SLCO1B1 Indeterminate,none
+*2/*14,,SLCO1B1 Indeterminate,none
+*2/*15,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*2/*16,,SLCO1B1 Indeterminate,none
+*2/*19,,SLCO1B1 Indeterminate,none
+*2/*20,,SLCO1B1 Indeterminate,none
+*2/*23,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*2/*24,,SLCO1B1 Indeterminate,none
+*2/*25,,SLCO1B1 Indeterminate,none
+*2/*26,,SLCO1B1 Indeterminate,none
+*2/*27,,SLCO1B1 Indeterminate,none
+*2/*28,,SLCO1B1 Indeterminate,none
+*2/*29,,SLCO1B1 Indeterminate,none
+*2/*30,,SLCO1B1 Indeterminate,none
+*2/*31,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*2/*32,,SLCO1B1 Indeterminate,none
+*2/*33,,SLCO1B1 Indeterminate,none
+*2/*34,,SLCO1B1 Indeterminate,none
+*2/*36,,SLCO1B1 Indeterminate,none
+*2/*37,,SLCO1B1 Indeterminate,none
+*2/*39,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*2/*40,,SLCO1B1 Indeterminate,none
+*2/*41,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*2/*42,,SLCO1B1 Indeterminate,none
+*2/*43,,SLCO1B1 Indeterminate,none
+*2/*44,,SLCO1B1 Indeterminate,none
+*2/*45,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*2/*47,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*2/*48,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*2/*49,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*4/*4,,SLCO1B1 Indeterminate,none
+*4/*5,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*4/*6,,SLCO1B1 Indeterminate,none
+*4/*8,,SLCO1B1 Indeterminate,none
+*4/*9,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*4/*10,,SLCO1B1 Indeterminate,none
+*4/*11,,SLCO1B1 Indeterminate,none
+*4/*14,,SLCO1B1 Indeterminate,none
+*4/*15,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*4/*16,,SLCO1B1 Indeterminate,none
+*4/*19,,SLCO1B1 Indeterminate,none
+*4/*20,,SLCO1B1 Indeterminate,none
+*4/*23,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*4/*24,,SLCO1B1 Indeterminate,none
+*4/*25,,SLCO1B1 Indeterminate,none
+*4/*26,,SLCO1B1 Indeterminate,none
+*4/*27,,SLCO1B1 Indeterminate,none
+*4/*28,,SLCO1B1 Indeterminate,none
+*4/*29,,SLCO1B1 Indeterminate,none
+*4/*30,,SLCO1B1 Indeterminate,none
+*4/*31,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*4/*32,,SLCO1B1 Indeterminate,none
+*4/*33,,SLCO1B1 Indeterminate,none
+*4/*34,,SLCO1B1 Indeterminate,none
+*4/*36,,SLCO1B1 Indeterminate,none
+*4/*37,,SLCO1B1 Indeterminate,none
+*4/*39,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*4/*40,,SLCO1B1 Indeterminate,none
+*4/*41,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*4/*42,,SLCO1B1 Indeterminate,none
+*4/*43,,SLCO1B1 Indeterminate,none
+*4/*44,,SLCO1B1 Indeterminate,none
+*4/*45,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*4/*47,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*4/*48,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*4/*49,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*5/*5,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*5/*6,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*5/*8,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*5/*9,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*5/*10,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*5/*11,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*5/*14,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*5/*15,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*5/*16,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*5/*19,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*5/*20,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*5/*23,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*5/*24,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*5/*25,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*5/*26,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*5/*27,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*5/*28,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*5/*29,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*5/*30,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*5/*31,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*5/*32,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*5/*33,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*5/*34,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*5/*36,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*5/*37,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*5/*39,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*5/*40,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*5/*41,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*5/*42,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*5/*43,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*5/*44,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*5/*45,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*5/*47,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*5/*48,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*5/*49,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*6/*6,,SLCO1B1 Indeterminate,none
+*6/*8,,SLCO1B1 Indeterminate,none
+*6/*9,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*6/*10,,SLCO1B1 Indeterminate,none
+*6/*11,,SLCO1B1 Indeterminate,none
+*6/*14,,SLCO1B1 Indeterminate,none
+*6/*15,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*6/*16,,SLCO1B1 Indeterminate,none
+*6/*19,,SLCO1B1 Indeterminate,none
+*6/*20,,SLCO1B1 Indeterminate,none
+*6/*23,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*6/*24,,SLCO1B1 Indeterminate,none
+*6/*25,,SLCO1B1 Indeterminate,none
+*6/*26,,SLCO1B1 Indeterminate,none
+*6/*27,,SLCO1B1 Indeterminate,none
+*6/*28,,SLCO1B1 Indeterminate,none
+*6/*29,,SLCO1B1 Indeterminate,none
+*6/*30,,SLCO1B1 Indeterminate,none
+*6/*31,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*6/*32,,SLCO1B1 Indeterminate,none
+*6/*33,,SLCO1B1 Indeterminate,none
+*6/*34,,SLCO1B1 Indeterminate,none
+*6/*36,,SLCO1B1 Indeterminate,none
+*6/*37,,SLCO1B1 Indeterminate,none
+*6/*39,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*6/*40,,SLCO1B1 Indeterminate,none
+*6/*41,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*6/*42,,SLCO1B1 Indeterminate,none
+*6/*43,,SLCO1B1 Indeterminate,none
+*6/*44,,SLCO1B1 Indeterminate,none
+*6/*45,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*6/*47,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*6/*48,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*6/*49,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*8/*8,,SLCO1B1 Indeterminate,none
+*8/*9,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*8/*10,,SLCO1B1 Indeterminate,none
+*8/*11,,SLCO1B1 Indeterminate,none
+*8/*14,,SLCO1B1 Indeterminate,none
+*8/*15,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*8/*16,,SLCO1B1 Indeterminate,none
+*8/*19,,SLCO1B1 Indeterminate,none
+*8/*20,,SLCO1B1 Indeterminate,none
+*8/*23,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*8/*24,,SLCO1B1 Indeterminate,none
+*8/*25,,SLCO1B1 Indeterminate,none
+*8/*26,,SLCO1B1 Indeterminate,none
+*8/*27,,SLCO1B1 Indeterminate,none
+*8/*28,,SLCO1B1 Indeterminate,none
+*8/*29,,SLCO1B1 Indeterminate,none
+*8/*30,,SLCO1B1 Indeterminate,none
+*8/*31,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*8/*32,,SLCO1B1 Indeterminate,none
+*8/*33,,SLCO1B1 Indeterminate,none
+*8/*34,,SLCO1B1 Indeterminate,none
+*8/*36,,SLCO1B1 Indeterminate,none
+*8/*37,,SLCO1B1 Indeterminate,none
+*8/*39,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*8/*40,,SLCO1B1 Indeterminate,none
+*8/*41,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*8/*42,,SLCO1B1 Indeterminate,none
+*8/*43,,SLCO1B1 Indeterminate,none
+*8/*44,,SLCO1B1 Indeterminate,none
+*8/*45,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*8/*47,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*8/*48,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*8/*49,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*9/*9,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*9/*10,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*9/*11,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*9/*14,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*9/*15,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*9/*16,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*9/*19,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*9/*20,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*9/*23,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*9/*24,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*9/*25,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*9/*26,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*9/*27,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*9/*28,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*9/*29,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*9/*30,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*9/*31,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*9/*32,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*9/*33,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*9/*34,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*9/*36,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*9/*37,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*9/*39,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*9/*40,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*9/*41,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*9/*42,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*9/*43,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*9/*44,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*9/*45,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*9/*47,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*9/*48,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*9/*49,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*10/*10,,SLCO1B1 Indeterminate,none
+*10/*11,,SLCO1B1 Indeterminate,none
+*10/*14,,SLCO1B1 Indeterminate,none
+*10/*15,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*10/*16,,SLCO1B1 Indeterminate,none
+*10/*19,,SLCO1B1 Indeterminate,none
+*10/*20,,SLCO1B1 Indeterminate,none
+*10/*23,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*10/*24,,SLCO1B1 Indeterminate,none
+*10/*25,,SLCO1B1 Indeterminate,none
+*10/*26,,SLCO1B1 Indeterminate,none
+*10/*27,,SLCO1B1 Indeterminate,none
+*10/*28,,SLCO1B1 Indeterminate,none
+*10/*29,,SLCO1B1 Indeterminate,none
+*10/*30,,SLCO1B1 Indeterminate,none
+*10/*31,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*10/*32,,SLCO1B1 Indeterminate,none
+*10/*33,,SLCO1B1 Indeterminate,none
+*10/*34,,SLCO1B1 Indeterminate,none
+*10/*36,,SLCO1B1 Indeterminate,none
+*10/*37,,SLCO1B1 Indeterminate,none
+*10/*39,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*10/*40,,SLCO1B1 Indeterminate,none
+*10/*41,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*10/*42,,SLCO1B1 Indeterminate,none
+*10/*43,,SLCO1B1 Indeterminate,none
+*10/*44,,SLCO1B1 Indeterminate,none
+*10/*45,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*10/*47,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*10/*48,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*10/*49,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*11/*11,,SLCO1B1 Indeterminate,none
+*11/*14,,SLCO1B1 Indeterminate,none
+*11/*15,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*11/*16,,SLCO1B1 Indeterminate,none
+*11/*19,,SLCO1B1 Indeterminate,none
+*11/*20,,SLCO1B1 Indeterminate,none
+*11/*23,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*11/*24,,SLCO1B1 Indeterminate,none
+*11/*25,,SLCO1B1 Indeterminate,none
+*11/*26,,SLCO1B1 Indeterminate,none
+*11/*27,,SLCO1B1 Indeterminate,none
+*11/*28,,SLCO1B1 Indeterminate,none
+*11/*29,,SLCO1B1 Indeterminate,none
+*11/*30,,SLCO1B1 Indeterminate,none
+*11/*31,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*11/*32,,SLCO1B1 Indeterminate,none
+*11/*33,,SLCO1B1 Indeterminate,none
+*11/*34,,SLCO1B1 Indeterminate,none
+*11/*36,,SLCO1B1 Indeterminate,none
+*11/*37,,SLCO1B1 Indeterminate,none
+*11/*39,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*11/*40,,SLCO1B1 Indeterminate,none
+*11/*41,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*11/*42,,SLCO1B1 Indeterminate,none
+*11/*43,,SLCO1B1 Indeterminate,none
+*11/*44,,SLCO1B1 Indeterminate,none
+*11/*45,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*11/*47,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*11/*48,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*11/*49,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*14/*14,,SLCO1B1 Increased Function,Normal/Routine/Low Risk
+*14/*15,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*14/*16,,SLCO1B1 Indeterminate,none
+*14/*19,,SLCO1B1 Indeterminate,none
+*14/*20,,SLCO1B1 Increased Function,Normal/Routine/Low Risk
+*14/*23,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*14/*24,,SLCO1B1 Indeterminate,none
+*14/*25,,SLCO1B1 Indeterminate,none
+*14/*26,,SLCO1B1 Indeterminate,none
+*14/*27,,SLCO1B1 Indeterminate,none
+*14/*28,,SLCO1B1 Indeterminate,none
+*14/*29,,SLCO1B1 Indeterminate,none
+*14/*30,,SLCO1B1 Indeterminate,none
+*14/*31,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*14/*32,,SLCO1B1 Indeterminate,none
+*14/*33,,SLCO1B1 Indeterminate,none
+*14/*34,,SLCO1B1 Indeterminate,none
+*14/*36,,SLCO1B1 Indeterminate,none
+*14/*37,,SLCO1B1 Normal Function,Normal/Routine/Low Risk
+*14/*39,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*14/*40,,SLCO1B1 Indeterminate,none
+*14/*41,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*14/*42,,SLCO1B1 Indeterminate,none
+*14/*43,,SLCO1B1 Indeterminate,none
+*14/*44,,SLCO1B1 Indeterminate,none
+*14/*45,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*14/*47,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*14/*48,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*14/*49,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*15/*15,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*15/*16,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*15/*19,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*15/*20,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*15/*23,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*15/*24,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*15/*25,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*15/*26,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*15/*27,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*15/*28,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*15/*29,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*15/*30,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*15/*31,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*15/*32,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*15/*33,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*15/*34,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*15/*36,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*15/*37,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*15/*39,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*15/*40,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*15/*41,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*15/*42,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*15/*43,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*15/*44,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*15/*45,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*15/*47,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*15/*48,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*15/*49,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*16/*16,,SLCO1B1 Indeterminate,none
+*16/*19,,SLCO1B1 Indeterminate,none
+*16/*20,,SLCO1B1 Indeterminate,none
+*16/*23,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*16/*24,,SLCO1B1 Indeterminate,none
+*16/*25,,SLCO1B1 Indeterminate,none
+*16/*26,,SLCO1B1 Indeterminate,none
+*16/*27,,SLCO1B1 Indeterminate,none
+*16/*28,,SLCO1B1 Indeterminate,none
+*16/*29,,SLCO1B1 Indeterminate,none
+*16/*30,,SLCO1B1 Indeterminate,none
+*16/*31,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*16/*32,,SLCO1B1 Indeterminate,none
+*16/*33,,SLCO1B1 Indeterminate,none
+*16/*34,,SLCO1B1 Indeterminate,none
+*16/*36,,SLCO1B1 Indeterminate,none
+*16/*37,,SLCO1B1 Indeterminate,none
+*16/*39,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*16/*40,,SLCO1B1 Indeterminate,none
+*16/*41,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*16/*42,,SLCO1B1 Indeterminate,none
+*16/*43,,SLCO1B1 Indeterminate,none
+*16/*44,,SLCO1B1 Indeterminate,none
+*16/*45,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*16/*47,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*16/*48,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*16/*49,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*19/*19,,SLCO1B1 Indeterminate,none
+*19/*20,,SLCO1B1 Indeterminate,none
+*19/*23,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*19/*24,,SLCO1B1 Indeterminate,none
+*19/*25,,SLCO1B1 Indeterminate,none
+*19/*26,,SLCO1B1 Indeterminate,none
+*19/*27,,SLCO1B1 Indeterminate,none
+*19/*28,,SLCO1B1 Indeterminate,none
+*19/*29,,SLCO1B1 Indeterminate,none
+*19/*30,,SLCO1B1 Indeterminate,none
+*19/*31,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*19/*32,,SLCO1B1 Indeterminate,none
+*19/*33,,SLCO1B1 Indeterminate,none
+*19/*34,,SLCO1B1 Indeterminate,none
+*19/*36,,SLCO1B1 Indeterminate,none
+*19/*37,,SLCO1B1 Indeterminate,none
+*19/*39,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*19/*40,,SLCO1B1 Indeterminate,none
+*19/*41,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*19/*42,,SLCO1B1 Indeterminate,none
+*19/*43,,SLCO1B1 Indeterminate,none
+*19/*44,,SLCO1B1 Indeterminate,none
+*19/*45,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*19/*47,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*19/*48,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*19/*49,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*20/*20,,SLCO1B1 Increased Function,Normal/Routine/Low Risk
+*20/*23,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*20/*24,,SLCO1B1 Indeterminate,none
+*20/*25,,SLCO1B1 Indeterminate,none
+*20/*26,,SLCO1B1 Indeterminate,none
+*20/*27,,SLCO1B1 Indeterminate,none
+*20/*28,,SLCO1B1 Indeterminate,none
+*20/*29,,SLCO1B1 Indeterminate,none
+*20/*30,,SLCO1B1 Indeterminate,none
+*20/*31,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*20/*32,,SLCO1B1 Indeterminate,none
+*20/*33,,SLCO1B1 Indeterminate,none
+*20/*34,,SLCO1B1 Indeterminate,none
+*20/*36,,SLCO1B1 Indeterminate,none
+*20/*37,,SLCO1B1 Normal Function,Normal/Routine/Low Risk
+*20/*39,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*20/*40,,SLCO1B1 Indeterminate,none
+*20/*41,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*20/*42,,SLCO1B1 Indeterminate,none
+*20/*43,,SLCO1B1 Indeterminate,none
+*20/*44,,SLCO1B1 Indeterminate,none
+*20/*45,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*20/*47,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*20/*48,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*20/*49,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*23/*23,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*23/*24,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*23/*25,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*23/*26,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*23/*27,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*23/*28,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*23/*29,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*23/*30,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*23/*31,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*23/*32,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*23/*33,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*23/*34,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*23/*36,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*23/*37,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*23/*39,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*23/*40,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*23/*41,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*23/*42,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*23/*43,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*23/*44,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*23/*45,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*23/*47,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*23/*48,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*23/*49,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*24/*24,,SLCO1B1 Indeterminate,none
+*24/*25,,SLCO1B1 Indeterminate,none
+*24/*26,,SLCO1B1 Indeterminate,none
+*24/*27,,SLCO1B1 Indeterminate,none
+*24/*28,,SLCO1B1 Indeterminate,none
+*24/*29,,SLCO1B1 Indeterminate,none
+*24/*30,,SLCO1B1 Indeterminate,none
+*24/*31,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*24/*32,,SLCO1B1 Indeterminate,none
+*24/*33,,SLCO1B1 Indeterminate,none
+*24/*34,,SLCO1B1 Indeterminate,none
+*24/*36,,SLCO1B1 Indeterminate,none
+*24/*37,,SLCO1B1 Indeterminate,none
+*24/*39,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*24/*40,,SLCO1B1 Indeterminate,none
+*24/*41,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*24/*42,,SLCO1B1 Indeterminate,none
+*24/*43,,SLCO1B1 Indeterminate,none
+*24/*44,,SLCO1B1 Indeterminate,none
+*24/*45,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*24/*47,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*24/*48,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*24/*49,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*25/*25,,SLCO1B1 Indeterminate,none
+*25/*26,,SLCO1B1 Indeterminate,none
+*25/*27,,SLCO1B1 Indeterminate,none
+*25/*28,,SLCO1B1 Indeterminate,none
+*25/*29,,SLCO1B1 Indeterminate,none
+*25/*30,,SLCO1B1 Indeterminate,none
+*25/*31,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*25/*32,,SLCO1B1 Indeterminate,none
+*25/*33,,SLCO1B1 Indeterminate,none
+*25/*34,,SLCO1B1 Indeterminate,none
+*25/*36,,SLCO1B1 Indeterminate,none
+*25/*37,,SLCO1B1 Indeterminate,none
+*25/*39,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*25/*40,,SLCO1B1 Indeterminate,none
+*25/*41,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*25/*42,,SLCO1B1 Indeterminate,none
+*25/*43,,SLCO1B1 Indeterminate,none
+*25/*44,,SLCO1B1 Indeterminate,none
+*25/*45,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*25/*47,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*25/*48,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*25/*49,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*26/*26,,SLCO1B1 Indeterminate,none
+*26/*27,,SLCO1B1 Indeterminate,none
+*26/*28,,SLCO1B1 Indeterminate,none
+*26/*29,,SLCO1B1 Indeterminate,none
+*26/*30,,SLCO1B1 Indeterminate,none
+*26/*31,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*26/*32,,SLCO1B1 Indeterminate,none
+*26/*33,,SLCO1B1 Indeterminate,none
+*26/*34,,SLCO1B1 Indeterminate,none
+*26/*36,,SLCO1B1 Indeterminate,none
+*26/*37,,SLCO1B1 Indeterminate,none
+*26/*39,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*26/*40,,SLCO1B1 Indeterminate,none
+*26/*41,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*26/*42,,SLCO1B1 Indeterminate,none
+*26/*43,,SLCO1B1 Indeterminate,none
+*26/*44,,SLCO1B1 Indeterminate,none
+*26/*45,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*26/*47,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*26/*48,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*26/*49,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*27/*27,,SLCO1B1 Indeterminate,none
+*27/*28,,SLCO1B1 Indeterminate,none
+*27/*29,,SLCO1B1 Indeterminate,none
+*27/*30,,SLCO1B1 Indeterminate,none
+*27/*31,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*27/*32,,SLCO1B1 Indeterminate,none
+*27/*33,,SLCO1B1 Indeterminate,none
+*27/*34,,SLCO1B1 Indeterminate,none
+*27/*36,,SLCO1B1 Indeterminate,none
+*27/*37,,SLCO1B1 Indeterminate,none
+*27/*39,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*27/*40,,SLCO1B1 Indeterminate,none
+*27/*41,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*27/*42,,SLCO1B1 Indeterminate,none
+*27/*43,,SLCO1B1 Indeterminate,none
+*27/*44,,SLCO1B1 Indeterminate,none
+*27/*45,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*27/*47,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*27/*48,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*27/*49,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*28/*28,,SLCO1B1 Indeterminate,none
+*28/*29,,SLCO1B1 Indeterminate,none
+*28/*30,,SLCO1B1 Indeterminate,none
+*28/*31,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*28/*32,,SLCO1B1 Indeterminate,none
+*28/*33,,SLCO1B1 Indeterminate,none
+*28/*34,,SLCO1B1 Indeterminate,none
+*28/*36,,SLCO1B1 Indeterminate,none
+*28/*37,,SLCO1B1 Indeterminate,none
+*28/*39,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*28/*40,,SLCO1B1 Indeterminate,none
+*28/*41,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*28/*42,,SLCO1B1 Indeterminate,none
+*28/*43,,SLCO1B1 Indeterminate,none
+*28/*44,,SLCO1B1 Indeterminate,none
+*28/*45,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*28/*47,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*28/*48,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*28/*49,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*29/*29,,SLCO1B1 Indeterminate,none
+*29/*30,,SLCO1B1 Indeterminate,none
+*29/*31,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*29/*32,,SLCO1B1 Indeterminate,none
+*29/*33,,SLCO1B1 Indeterminate,none
+*29/*34,,SLCO1B1 Indeterminate,none
+*29/*36,,SLCO1B1 Indeterminate,none
+*29/*37,,SLCO1B1 Indeterminate,none
+*29/*39,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*29/*40,,SLCO1B1 Indeterminate,none
+*29/*41,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*29/*42,,SLCO1B1 Indeterminate,none
+*29/*43,,SLCO1B1 Indeterminate,none
+*29/*44,,SLCO1B1 Indeterminate,none
+*29/*45,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*29/*47,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*29/*48,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*29/*49,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*30/*30,,SLCO1B1 Indeterminate,none
+*30/*31,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*30/*32,,SLCO1B1 Indeterminate,none
+*30/*33,,SLCO1B1 Indeterminate,none
+*30/*34,,SLCO1B1 Indeterminate,none
+*30/*36,,SLCO1B1 Indeterminate,none
+*30/*37,,SLCO1B1 Indeterminate,none
+*30/*39,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*30/*40,,SLCO1B1 Indeterminate,none
+*30/*41,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*30/*42,,SLCO1B1 Indeterminate,none
+*30/*43,,SLCO1B1 Indeterminate,none
+*30/*44,,SLCO1B1 Indeterminate,none
+*30/*45,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*30/*47,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*30/*48,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*30/*49,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*31/*31,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*31/*32,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*31/*33,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*31/*34,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*31/*36,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*31/*37,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*31/*39,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*31/*40,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*31/*41,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*31/*42,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*31/*43,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*31/*44,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*31/*45,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*31/*47,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*31/*48,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*31/*49,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*32/*32,,SLCO1B1 Indeterminate,none
+*32/*33,,SLCO1B1 Indeterminate,none
+*32/*34,,SLCO1B1 Indeterminate,none
+*32/*36,,SLCO1B1 Indeterminate,none
+*32/*37,,SLCO1B1 Indeterminate,none
+*32/*39,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*32/*40,,SLCO1B1 Indeterminate,none
+*32/*41,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*32/*42,,SLCO1B1 Indeterminate,none
+*32/*43,,SLCO1B1 Indeterminate,none
+*32/*44,,SLCO1B1 Indeterminate,none
+*32/*45,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*32/*47,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*32/*48,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*32/*49,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*33/*33,,SLCO1B1 Indeterminate,none
+*33/*34,,SLCO1B1 Indeterminate,none
+*33/*36,,SLCO1B1 Indeterminate,none
+*33/*37,,SLCO1B1 Indeterminate,none
+*33/*39,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*33/*40,,SLCO1B1 Indeterminate,none
+*33/*41,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*33/*42,,SLCO1B1 Indeterminate,none
+*33/*43,,SLCO1B1 Indeterminate,none
+*33/*44,,SLCO1B1 Indeterminate,none
+*33/*45,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*33/*47,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*33/*48,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*33/*49,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*34/*34,,SLCO1B1 Indeterminate,none
+*34/*36,,SLCO1B1 Indeterminate,none
+*34/*37,,SLCO1B1 Indeterminate,none
+*34/*39,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*34/*40,,SLCO1B1 Indeterminate,none
+*34/*41,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*34/*42,,SLCO1B1 Indeterminate,none
+*34/*43,,SLCO1B1 Indeterminate,none
+*34/*44,,SLCO1B1 Indeterminate,none
+*34/*45,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*34/*47,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*34/*48,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*34/*49,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*36/*36,,SLCO1B1 Indeterminate,none
+*36/*37,,SLCO1B1 Indeterminate,none
+*36/*39,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*36/*40,,SLCO1B1 Indeterminate,none
+*36/*41,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*36/*42,,SLCO1B1 Indeterminate,none
+*36/*43,,SLCO1B1 Indeterminate,none
+*36/*44,,SLCO1B1 Indeterminate,none
+*36/*45,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*36/*47,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*36/*48,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*36/*49,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*37/*37,,SLCO1B1 Normal Function,Normal/Routine/Low Risk
+*37/*39,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*37/*40,,SLCO1B1 Indeterminate,none
+*37/*41,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*37/*42,,SLCO1B1 Indeterminate,none
+*37/*43,,SLCO1B1 Indeterminate,none
+*37/*44,,SLCO1B1 Indeterminate,none
+*37/*45,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*37/*47,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*37/*48,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*37/*49,,SLCO1B1 Decreased Function,Abnormal/Priority/High Risk
+*39/*39,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*39/*40,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*39/*41,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*39/*42,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*39/*43,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*39/*44,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*39/*45,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*39/*47,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*39/*48,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*39/*49,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*40/*40,,SLCO1B1 Indeterminate,none
+*40/*41,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*40/*42,,SLCO1B1 Indeterminate,none
+*40/*43,,SLCO1B1 Indeterminate,none
+*40/*44,,SLCO1B1 Indeterminate,none
+*40/*45,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*40/*47,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*40/*48,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*40/*49,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*41/*41,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*41/*42,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*41/*43,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*41/*44,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*41/*45,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*41/*47,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*41/*48,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*41/*49,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*42/*42,,SLCO1B1 Indeterminate,none
+*42/*43,,SLCO1B1 Indeterminate,none
+*42/*44,,SLCO1B1 Indeterminate,none
+*42/*45,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*42/*47,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*42/*48,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*42/*49,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*43/*43,,SLCO1B1 Indeterminate,none
+*43/*44,,SLCO1B1 Indeterminate,none
+*43/*45,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*43/*47,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*43/*48,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*43/*49,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*44/*44,,SLCO1B1 Indeterminate,none
+*44/*45,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*44/*47,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*44/*48,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*44/*49,,SLCO1B1 Possible Decreased Function,Abnormal/Priority/High Risk
+*45/*45,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*45/*47,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*45/*48,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*45/*49,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*47/*47,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*47/*48,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*47/*49,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*48/*48,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*48/*49,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
+*49/*49,,SLCO1B1 Poor Function,Abnormal/Priority/High Risk
