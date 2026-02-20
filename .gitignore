@@ -31,12 +31,21 @@ wheels/
 *~
 .DS_Store
 
-# Data files (large)
+# Exclude all data directories and files
+/data/
+/backups/
+/pharmgkb/
+/test/
+/original-scripts/
+/source-allele-*/
+
+# Exclude large data files
 *.xml
 *.bak
-
-# Backup
-backups/
+*.json
+*.tsv
+*.csv
+*.pdf
 
 # Test outputs
 test_complete.log
