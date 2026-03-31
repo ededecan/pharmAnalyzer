@@ -174,7 +174,10 @@ class VariantGrouper:
         """Group variants by rsID for quick lookup"""
         groups = {}
         for variant in variants:
-            rsid = variant.get('existing_variation', '-')
+            rsid_raw = variant.get('existing_variation', '-')
+            # Split compound fields (e.g. "rs885479&CM014731&COSV...") and pick first rsID
+            _rsid_tokens = [p.strip() for p in str(rsid_raw).replace('&', ';').replace(',', ';').split(';')]
+            rsid = next((p for p in _rsid_tokens if p.startswith('rs')), '-')
             if rsid and rsid != '-':
                 if rsid not in groups:
                     groups[rsid] = []

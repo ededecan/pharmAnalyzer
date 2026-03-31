@@ -38,25 +38,49 @@ class DataLoader:
         """Check if value is considered empty"""
         return not value or value in ['', 'nan', 'NaN', '-']
 
+    @staticmethod
+    def load_coordinate_mapping(tsv_file: Path) -> Dict[str, Dict[str, Dict[str, str]]]:
+        """Loads master_allele_mapping.tsv and extracts exact rsIDs and Variant Names"""
+        import csv
+        allele_dict = {}
+        
+        if not tsv_file.exists():
+            print(f"  Warning: Master allele mapping TSV not found at {tsv_file}")
+            return allele_dict
+            
+        with open(tsv_file, mode='r', encoding='utf-8') as file:
+            reader = csv.DictReader(file, delimiter='\t')
+            for row in reader:
+                gene = row.get("Gene", "").strip()
+                if not gene: continue
+                
+                chrom = row["Chromosome"]
+                pos = row["Position_GRCh38"]
+                ref_alt = row["Genomic_Ref_Alt"]
+                rsid = row.get("rsID", "").strip()
+                variant_name = row.get("Variant_Name", "").strip()
+                
+                # Extract the ALT allele (e.g., from "G > A", we want "A")
+                alt_allele = ref_alt.split('>')[-1].strip() if '>' in ref_alt else ref_alt.strip()
+                lookup_key = f"{chrom}_{pos}_{alt_allele}"
+                
+                if gene not in allele_dict:
+                    allele_dict[gene] = {}
+                    
+                allele_dict[gene][lookup_key] = {
+                    'rsid': rsid,
+                    'variant_name': variant_name
+                }
+                
+        return allele_dict
+
 
 class AlleleDefinitionLoader:
     """Specialized loader for allele definition CSVs"""
     
     @staticmethod
     def load(def_dir: Path) -> Dict[str, Dict[str, Any]]:
-        """Load and normalize allele definitions from CSV files
-        
-        Returns:
-            {
-                'gene': {
-                    'rsids': [rsid1, rsid2, ...],
-                    'alleles': {
-                        '*1': {rsid1: 'A', rsid2: 'T', ...},
-                        '*2': {rsid1: 'A', rsid2: 'T', ...},
-                    }
-                }
-            }
-        """
+        """Load and normalize allele definitions from CSV files"""
         allele_defs = {}
         
         for csv_file in sorted(def_dir.glob("*_allele_definition.csv")):
